@@ -12,9 +12,9 @@ $primary: #40626c;
     background-color: #25383e;
     color: #fff;
 };
-.hero.is-primary.is-bold {
+@hero.is-primary.is-bold (max-width:629px) {
     background-image: url(img/CSL_banner_background.svg);
-    background-size: 60%;
+    background-size: 70%;
     max-height: 250px;
 };
 .navbar.is-primary .navbar-brand>.navbar-item, .navbar.is-primary .navbar-brand .navbar-link {
