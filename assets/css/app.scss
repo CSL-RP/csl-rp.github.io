@@ -20,6 +20,11 @@ $primary: #40626c;
     padding: 1rem 0rem;
   };
 };
+@media (min-width:629px) {
+  .hero.is-medium .hero-body {
+    padding: 1rem 0rem;
+  };
+};
 .hero.is-primary.is-bold {
     background-image: url(img/CSL_banner_background.svg);
     background-size: 70%;
@@ -35,9 +40,6 @@ $primary: #40626c;
 .subtitle.is-3 {
     font-size: 2rem;
     margin-left: 20%;
-};
-.hero.is-medium .hero-body {
-    padding: 4.5rem 1.5rem;
 };
 .title:not(.is-spaced) + .subtitle {
     //margin-top: -1.25rem;
