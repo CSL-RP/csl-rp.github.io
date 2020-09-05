@@ -4,7 +4,7 @@ tagline: Comunidade de Software Livre de Ribeirão Preto
 email: your-email@domain.com
 description: >
   Site para a Comunidade de Software Livre de Ribeirão Preto
-baseurl: "/bulma-clean-theme"
+baseurl: "/"
 url: "csl-rp.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
