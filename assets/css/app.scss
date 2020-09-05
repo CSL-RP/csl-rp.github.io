@@ -12,7 +12,12 @@ $primary: #40626c;
     background-color: #25383e;
     color: #fff;
 };
-@hero.is-primary.is-bold (max-width:629px) {
+@media (max-width:629px) {
+  .hero.is-primary.is-bold {
+    display: none;
+  }
+};
+.hero.is-primary.is-bold {
     background-image: url(img/CSL_banner_background.svg);
     background-size: 70%;
     max-height: 250px;
