@@ -2,7 +2,8 @@
 title: 
 subtitle: Comunidade de<br/>Software<br/>Livre de Ribeirão Preto
 layout: page
-show_sidebar: true
+show_sidebar: false
+callouts: home_callouts
 ---
 
 # Bulma Clean Theme demo website
