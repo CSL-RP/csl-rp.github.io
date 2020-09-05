@@ -15,7 +15,10 @@ $primary: #40626c;
 @media (max-width:629px) {
   .title.is-2 {
     display: none;
-  }
+  };
+  .hero.is-medium .hero-body {
+    padding: 1rem 0rem;
+  };
 };
 .hero.is-primary.is-bold {
     background-image: url(img/CSL_banner_background.svg);
