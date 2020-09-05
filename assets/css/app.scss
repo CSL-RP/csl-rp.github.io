@@ -13,9 +13,14 @@ $primary: #40626c;
     color: #fff;
 };
 @media (max-width:900px) {
-  .title.is-2 {
-    display: none;
-  };
+    .title.is-2 {
+        display: none;
+    };
+};
+@media (max-width:900px) {
+    .hero.is-medium .hero-body {
+        padding: 0rem 0rem;
+    };
 };
 .hero.is-primary.is-bold {
     background-image: url(img/CSL_banner_background.svg);
