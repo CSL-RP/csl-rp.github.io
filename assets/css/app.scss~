@@ -1,0 +1,36 @@
+---
+---
+$primary: #40626c;
+// Import Main CSS file from theme
+@import "main";
+@font-face {font-family: "Facile Sans"; src: url("//db.onlinewebfonts.com/t/286e8cea636c4520dc3d1a4df56f52cf.eot"); src: url("//db.onlinewebfonts.com/t/286e8cea636c4520dc3d1a4df56f52cf.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/286e8cea636c4520dc3d1a4df56f52cf.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/286e8cea636c4520dc3d1a4df56f52cf.woff") format("woff"), url("//db.onlinewebfonts.com/t/286e8cea636c4520dc3d1a4df56f52cf.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/286e8cea636c4520dc3d1a4df56f52cf.svg#Facile Sans") format("svg"); }
+.navbar.is-primary {
+    background-color: #25383e;
+    color: #fff;
+};
+.navbar.is-primary .navbar-start>a.navbar-item:focus, .navbar.is-primary .navbar-start>a.navbar-item:hover, .navbar.is-primary .navbar-start>a.navbar-item.is-active, .navbar.is-primary .navbar-start .navbar-link:focus, .navbar.is-primary .navbar-start .navbar-link:hover, .navbar.is-primary .navbar-start .navbar-link.is-active, .navbar.is-primary .navbar-end>a.navbar-item:focus, .navbar.is-primary .navbar-end>a.navbar-item:hover, .navbar.is-primary .navbar-end>a.navbar-item.is-active, .navbar.is-primary .navbar-end .navbar-link:focus, .navbar.is-primary .navbar-end .navbar-link:hover, .navbar.is-primary .navbar-end .navbar-link.is-active {
+    background-color: #25383e;
+    color: #fff;
+};
+.hero.is-primary.is-bold {
+    background-image: url(img/CSL_banner_background.svg);
+    background-size: contain;
+};
+.navbar.is-primary .navbar-brand>.navbar-item, .navbar.is-primary .navbar-brand .navbar-link {
+    color: #fff;
+    font-family: "Facile Sans";
+}
+.hero-body {
+    font-family: "Facile Sans";
+};
+.subtitle.is-3 {
+    font-size: 2rem;
+    margin-left: 20%;
+};
+.navbar-brand:before {
+    content: url(img/csl_logo.svg);
+    /*background-image: url(img/csl_logo.svg);
+    background-size: contain;
+    height: 100px;
+    width: 100px;*/
+};
