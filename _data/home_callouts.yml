@@ -3,7 +3,7 @@ height: is-medium
 items:
   - title: 
     subtitle: Quem Somos
-    icon: fa-space-shuttle
+    icon: /img/csl_logo_outline.svg
     description: >
       Saiba mais sobre o grupo
       
