@@ -1,18 +1,9 @@
 {% if page.callouts %}
     {% assign callouts=site.data.[page.callouts] %}
-    <section class="section">
-        <div class="container">
-            <div class="columns">
-                <div class="column is-12">
-                    <div class="content">
 <p id="desc">Somos um grupo de <span class="textbf">alunos</span> que buscam promover a adoção de <span class="textbf">software livre</span> no campus USP de <span class="textbf">Ribeirão Preto</span>.</p>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray;margin-left: 10%;max-width: 80%;margin-top: 5%;">
-</div>
-                </div>
-            </div>
-        </div>
-    </section>
+
     <section class="hero {% if callouts.height %} {{ callouts.height }} {% else %} is-medium {% endif %} {{ callouts.style }}">
         <div class="hero-body">
             <div class="container">
