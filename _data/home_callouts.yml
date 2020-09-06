@@ -3,7 +3,7 @@ height: is-medium
 items:
   - title: 
     subtitle: Quem Somos
-    icon: url("/img/csl_logo_outline.svg")
+    icon: url("img/csl_logo_outline.svg")
     description: >
       Saiba mais sobre o grupo
       
