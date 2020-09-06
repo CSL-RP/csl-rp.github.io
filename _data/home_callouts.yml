@@ -6,6 +6,7 @@ items:
     icon: fa-space-shuttle
     description: >
       Saiba mais sobre o grupo
+      
       e nossos objetivos
     call_to_action_name: Saber Mais
     call_to_action_link: /page-1/
