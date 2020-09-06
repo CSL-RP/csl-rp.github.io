@@ -3,7 +3,7 @@ height: is-medium
 items:
   - title: 
     subtitle: Quem Somos
-    icon: img/csl_logo_outline.svg
+    icon: img-csl_logo_outline
     description: >
       Saiba mais sobre o grupo
       
@@ -12,7 +12,7 @@ items:
     call_to_action_link: /page-1/
   - title: 
     subtitle: Software Livre
-    icon: fa-wrench
+    icon: img-thinking_csl
     description: >
       Entenda o significado do termo
 
@@ -21,7 +21,7 @@ items:
     call_to_action_link: /page-2/
   - title: 
     subtitle: Contribuir
-    icon: fa-github
+    icon: img-handshake
     icon_brand: true
     description: >
       Como você pode contribuir ao
