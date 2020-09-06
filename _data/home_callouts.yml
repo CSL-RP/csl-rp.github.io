@@ -3,7 +3,7 @@ height: is-medium
 items:
   - title: 
     subtitle: Quem Somos
-    icon: img-csl_logo_outline
+    icon: img-outline
     description: >
       Saiba mais sobre o grupo
       
@@ -12,7 +12,7 @@ items:
     call_to_action_link: /page-1/
   - title: 
     subtitle: Software Livre
-    icon: img-thinking_csl
+    icon: img-thinking
     description: >
       Entenda o significado do termo
 
