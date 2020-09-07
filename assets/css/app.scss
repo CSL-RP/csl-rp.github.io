@@ -82,15 +82,23 @@ html {
     color: #e55d00;
     font-weight: bold;
 };
-.fas.img-thinking.fa-4x {
-    content: url(img/thinking_csl.svg);
-    transform: scale(2.0);
-};
 .fas.img-outline.fa-4x {
     content: url(img/csl_logo_outline.svg);
-    transform: scale(2.0);
+    transform: scale(1.0);
 };
-.fas.img-handshake2.fa-4x {
-    content: url("https://csl-rp.github.io/assets/css/img/handshake.svg");
-    transform: scale(2.0);
-}
+.fas.img-thinking.fa-4x {
+    content: url(img/thinking_csl.svg);
+    transform: scale(1.0);
+};
+.fas.img-noticias.fa-4x {
+    content: url(img/news.svg);
+    transform: scale(1.0);
+};
+.fas.img-tutoriais.fa-4x {
+    content: url(img/tutorials.svg);
+    transform: scale(1.0);
+};
+.fas.img-contato.fa-4x {
+    content: url(img/contato.svg);
+    transform: scale(1.0);
+};

@@ -9,22 +9,40 @@ items:
       
       e nossos objetivos
     call_to_action_name: Saber Mais
-    call_to_action_link: /page-1/
+    call_to_action_link: #mais
   - title: 
     subtitle: Software Livre
     icon: img-thinking
     description: >
       Entenda o significado do termo
 
-      E porquê isso é importante
+      E por que isso é importante
     call_to_action_name: Saber Mais
     call_to_action_link: /page-2/
   - title: 
-    subtitle: Contribuir
-    icon: img-handshake2
+    subtitle: Notícias
+    icon: img-noticias
     description: >
-      Como você pode contribuir ao
-
-      Grupo e nossa causa
+      Saiba o que nós estamos
+      
+      fazendo no momento
+    call_to_action_name: Saber Mais
+    call_to_action_link: https://www.csrhymes.com/bulma-clean-theme/page-3/
+  - title: 
+    subtitle: Tutoriais
+    icon: img-tutoriais
+    description: >
+        Confira como substituir software
+        
+        proprietário e usar software livre
+    call_to_action_name: Saber Mais
+    call_to_action_link: https://www.csrhymes.com/bulma-clean-theme/page-3/
+  - title: 
+    subtitle: Contato
+    icon: img-contato
+    description: >
+        Fale conosco
+        
+        Junte-se ao grupo
     call_to_action_name: Saber Mais
     call_to_action_link: https://www.csrhymes.com/bulma-clean-theme/page-3/
