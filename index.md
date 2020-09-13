@@ -8,6 +8,7 @@ callouts: home_callouts
 
 # Quem somos
 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A CSL foi criada com o propósito de **informar** a comunidade do câmpus acerca **software livre**, e promover sua adoção em todas as aplicações onde software proprietário hoje se faz presente, em particular nas **atividades didáticas** realizadas pelos estudantes (ensino, realização de experimentos, elaboração de relatórios, etc).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Consideramos o uso de soluções proprietárias **incompatível** com os objetivos declarados de uma universidade pública: de **democratizar** o acesso ao estudo, de **produzir conhecimento** para o benefício da **sociedade**, e de **empoderar** seus alunos através do conhecimento. Software proprietário, todavia, priva o usuário do **direito de estudar e compreender os programas que executa**, e **restringe** sua liberdade de **melhorá-lo** e **compartilhá-lo**. 
