@@ -2,9 +2,9 @@
 layout: page
 title: Page With Contents
 subtitle: Example page with contents
-toc: true
+#toc: true
 #toc_title: Custom Title
-#menubar: faq_contents
+menubar: faq_contents
 show_sidebar: false
 ---
 
