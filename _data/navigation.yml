@@ -3,5 +3,7 @@
   dropdown:
     - name: Instalação Linux Mint
       link: /tutorial-install-linux-mint/
-- name: Blog
+- name: Artigos
   link: /blog/
+- name: Contato
+  link: /contato/
