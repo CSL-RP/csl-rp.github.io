@@ -1,11 +1,10 @@
-- label: Menu
+- label: Conteúdo do FAQ
   items:
-    - name: Início
-      link: /
-    - name: Tutoriais
-      link: /#
-      items:
-        - name: Instalação Linux Mint
-          link: /tutorial-install-linux-mint/
-    - name: Blog
-      link: /blog/
+    - name: Introdução
+      link: #introduction
+    - name: Set Up
+      link: #set-up
+    - name: Contents Title
+      link: #contents-title
+    - name: Exemplo da Front Máterip
+      link: #example-front-matter
