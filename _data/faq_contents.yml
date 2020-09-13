@@ -1,10 +1,10 @@
 - label: Conteúdo do FAQ
   items:
     - name: Introdução
-      link: /page-with-contents/#introduction
+      link: /page-with-contents#introduction
     - name: Set Up
-      link: /page-with-contents/#set-up
+      link: /page-with-contents#set-up
     - name: Contents Title
-      link: /page-with-contents/#contents-title
+      link: /page-with-contents#contents-title
     - name: Exemplo da Front Máterip
-      link: /page-with-contents/#example-front-matter
+      link: /page-with-contents#example-front-matter
