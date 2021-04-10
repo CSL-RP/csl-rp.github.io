@@ -1,7 +1,7 @@
 - name: Home
   link: /
 - name: Blog
-  link: /artigos/
+  link: /blog/
 - name: Products
   link: /products/
 - name: Privacy Policy
