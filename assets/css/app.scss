@@ -3,7 +3,7 @@
 $primary: #40626c;
 // Import Main CSS file from theme
 @import "main";
-@font-face {font-family: "Facile Sans"; src: url("//db.onlinewebfonts.com/t/286e8cea636c4520dc3d1a4df56f52cf.eot"); src: url("//db.onlinewebfonts.com/t/286e8cea636c4520dc3d1a4df56f52cf.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/286e8cea636c4520dc3d1a4df56f52cf.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/286e8cea636c4520dc3d1a4df56f52cf.woff") format("woff"), url("//db.onlinewebfonts.com/t/286e8cea636c4520dc3d1a4df56f52cf.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/286e8cea636c4520dc3d1a4df56f52cf.svg#Facile Sans") format("svg"); }
+@font-face {font-family: "Facile Sans"; src: url(286e8cea636c4520dc3d1a4df56f52cf.eot); src: url(286e8cea636c4520dc3d1a4df56f52cf.eot) format("embedded-opentype"), url(286e8cea636c4520dc3d1a4df56f52cf.woff2) format("woff2"), url(286e8cea636c4520dc3d1a4df56f52cf.woff) format("woff"), url(286e8cea636c4520dc3d1a4df56f52cf.ttf) format("truetype"), url(286e8cea636c4520dc3d1a4df56f52cf.svg) format("svg"); }
 .navbar.is-primary {
     background-color: #25383e;
     color: #fff;
