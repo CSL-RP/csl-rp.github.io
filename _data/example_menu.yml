@@ -7,5 +7,5 @@
       items:
         - name: Instalação Linux Mint
           link: /tutorial-install-linux-mint/
-    - name: Blog
-      link: /blog/
+    - name: Artigos
+      link: /artigos/
