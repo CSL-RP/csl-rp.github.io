@@ -1,13 +1,13 @@
 <nav class="pagination is-centered">
     {% if paginator.previous_page %}
-    <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="pagination-previous is-info">Previous</a>
+    <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="pagination-previous is-info">Anterior</a>
     {% else %}
-    <p class="pagination-previous" disabled>Previous</p>
+    <p class="pagination-previous" disabled>Anterior</p>
     {% endif %}
     {% if paginator.next_page %}
-    <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="pagination-next is-info">Next</a>
+    <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="pagination-next is-info">Próximo</a>
     {% else %}
-    <p class="pagination-next" disabled >Next</p>
+    <p class="pagination-next" disabled >Próximo</p>
     {% endif %}
     <ul class="pagination-list">
         {% for page in (1..paginator.total_pages) %}

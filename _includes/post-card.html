@@ -11,11 +11,12 @@
     <div class="card-content">
         <div class="content">
             {% if post.image %}
-            <a class="title is-4" href="{{ site.baseurl }}{{ post.url }}">{{ post.title}}</a>
+            <a class="title is-12" href="{{ site.baseurl }}{{ post.url }}">{{ post.title}}</a>
+            <a class="title is-4" href="{{ site.baseurl }}{{ post.url }}">{{ post.description}}</a>
             {% endif %}
         </div>
         <div class="has-text-centered">
-            <a href="{{ site.baseurl }}{{ post.url }}" class="button is-primary">Read more</a>
+            <a href="{{ site.baseurl }}{{ post.url }}" class="button is-primary">Ler</a>
         </div>
     </div>
     <footer class="card-footer">
