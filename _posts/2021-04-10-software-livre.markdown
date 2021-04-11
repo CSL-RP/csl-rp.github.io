@@ -4,8 +4,7 @@ title:  "O que é software livre"
 date:   2021-04-10 18:56:00
 author: Eduardo Lopes Dias
 categories: filosofia
-description: "Neste artigo apresentamos a ideia de Software Livre, por que isso importa, e o que você pode fazer."
-image: 'https://csl-rp.github.io/assets/css/img/artigos/thumb.png'
+description: "Neste artigo apresentamos a ideia de software livre e por que isso importa, e o que você pode fazer."
 published: true
 canonical_url: https://csl-rp.github.io/filosofia/2021/04/10/software-livre.html
 ---
