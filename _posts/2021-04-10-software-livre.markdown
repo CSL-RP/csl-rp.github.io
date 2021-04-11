@@ -11,6 +11,7 @@ hero_link: false
 hero_image: false
 image: false
 comments: false
+hero_title: true
 ---
 
 # Software Livre
