@@ -4,6 +4,7 @@ subtitle: Comunidade de<br/>Software<br/>Livre de Ribeirão Preto
 layout: page
 show_sidebar: false
 callouts: home_callouts
+hero_logo: true
 ---
 
 # Quem somos
