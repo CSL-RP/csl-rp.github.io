@@ -1,4 +1,3 @@
-{% if page.hero_link %}
 <section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary" {% if page.hero_image %} style="background: url('{{ page.hero_image }}') no-repeat center center; background-size: cover;" {% endif %}>
     <div class="hero-body {% if page.hero_darken %} hero-darken {% endif %}">
         <div class="container">
@@ -10,4 +9,3 @@
         </div>
     </div>
 </section>
-{% endif %}

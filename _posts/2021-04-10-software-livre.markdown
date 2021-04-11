@@ -8,6 +8,7 @@ description: "Neste artigo apresentamos a ideia de software livre e por que isso
 published: true
 canonical_url: https://csl-rp.github.io/filosofia/2021/04/10/software-livre.html
 hero_link: false
+hero_image: false
 image: false
 ---
 
