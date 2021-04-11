@@ -2,16 +2,11 @@
 layout: post
 title:  "O que é software livre"
 date:   2021-04-10 18:56:00
-author: Eduardo Lopes Dias
 categories: filosofia
-description: "Neste artigo apresentamos a ideia de software livre e por que isso importa, e o que você pode fazer."
+description: "Neste artigo apresentamos a ideia de Software Livre, por que isso importa, e o que você pode fazer."
+image: 'https://csl-rp.github.io/assets/css/img/artigos/thumb.png'
 published: true
 canonical_url: https://csl-rp.github.io/filosofia/2021/04/10/software-livre.html
-hero_link: false
-hero_image: false
-image: false
-comments: false
-hero_title: true
 ---
 
 # Software Livre
@@ -36,27 +31,31 @@ Designa-se por **software livre** os **programas de computador** que respeitam a
 
 Um pré-requisito para a efetivação da 1° liberdade é a disponibilidade do **código fonte** do programa, ou seja, é essencial que o software seja [**open source**](link para o FAQ) para ser considerado livre. Este não é o único requisito, no entanto: as liberdades referentes à **distribuição** do software são **igualmente importantes**.
 
-![Código fonte é o que os programadores escrevem, e é um formato legível ao ser humano. A partir da fonte é gerado um executável, que é compreensível somente à máquina](https://csl-rp.github.io/assets/css/img/artigos/source_machine.png)
+![](https://csl-rp.github.io/assets/css/img/artigos/source_machine.png)
+*Código fonte é o que os programadores escrevem, e é um formato legível ao ser humano. A partir da fonte é gerado um executável, que é compreensível somente à máquina.*
 
 A liberdade n. 0 é autoexplicativa quanto ao propósito de conceder ao usuário o controle sobre seus dispositivos. A **transparência** promovida pela liberdade n. 1 permite que o usuário entenda o que um programa **de fato faz em seu computador** - um direito com frequência menosprezado - e possibilita que softwares livres sejam constantemente **melhorados**: seja pela adição de novas funcionalidades ou **remoção de características que prejudicam seus usuários**. 
 
 Por fim, as liberdades 2 e 3 **promovem o bem comum**: permite que versões cada vez melhores dos softwares livres sejam **compartilhadas** e usufruídas mesmo por **pessoas que não são programadoras**. Deste modo, todos os usuários se beneficiam com a **segurança**, **transparência** e **controle** que existem graças à liberdade 1, **mesmo não a exercendo diretamente** (isto é, mesmo que não leia ou modifique o código).
 
-![As 4 liberdades permitem que os usuários determinem os usos e o destino de um programa, mesmo aqueles que não são programadores.](https://csl-rp.github.io/assets/css/img/artigos/happy_people2.png)
+![](https://csl-rp.github.io/assets/css/img/artigos/happy_people2.png)
+*As 4 liberdades permitem que os usuários determinem os usos e o destino de um programa, mesmo aqueles que não são programadores.*
 
 Estas liberdades podem parecer relativamente inconsequentes a primeira vista, mas são **fundamentais** para o propósito do movimento de software livre: **que os usuários tenham controle sobre seus dispositivos e sua vida digital**. O movimento de software livre existe em oposição ao **software proprietário**, portanto, para compreender a relevância das nossas pautas, é importante esclarecer o que é que **agimos contra**:
 
 ## Software proprietário
 
-Em termos simples, software proprietário é aquele que **restringe** o usuário ao **privá-lo** de ao menos uma das **4 liberdades** apresentadas acima (normalmente há restrições que negam todas as 4). Estas restrições são implementadas através dos **termos de uso** impostos aos usuários, que os tornam passíveis de prosecução legal caso insistam em **utilizar**, **estudar** ou **distribuir** o programa instalado em **seu computador** da maneira que acharem melhor.
+Em termos simples, software proprietário é aquele que **restringe** o usuário ao **privá-lo** de ao menos uma das **4 liberdades** apresentadas acima (normalmente há restrições que negam todas as 4). Estas restrições são implementadas através dos **termos de uso** impostos aos usuários, que os tornam passíveis de prossecução legal caso insistam em **utilizar**, **estudar** ou **distribuir** o programa instalado em **seu computador** da maneira que acharem melhor.
 
-![Com software proprietário, os usuários estão a mercê dos desenvolvedores, que têm acesso exclusivo aos programas e podem usar o computador do usuário para seus próprios fins.](https://csl-rp.github.io/assets/css/img/artigos/prop_software.png)
+![](https://csl-rp.github.io/assets/css/img/artigos/prop_software.png)
+*Com software proprietário, os usuários estão a mercê dos desenvolvedores, que têm acesso exclusivo aos programas e podem usar o computador do usuário para seus próprios fins.*
 
 As consequências destas restrições são dramáticas. A menos que o usuário possa ler o código fonte do programa, é **praticamente impossível** saber o que **realmente está sendo executado em seu computador**; some a isto o fato de que o usuário **não pode modificar o programa**, tampouco usufruir de **versões modificadas por outros**, e temos o **ambiente perfeito** para a introdução de funcionalidades que existem para **explorar o usuário**. 
 
 Vale ressaltar que o usuário **não precisa ser um programador** para **desconfiar da falta de transparência** de software proprietário -- a indisponibilidade do código para pessoas capazes de analisá-lo deve ser encarada com o devido **ceticismo**. É importante também enfatizar que nossas objeções a software proprietário **não têm a ver com seu custo** -- de fato, talvez a maioria do software proprietário hoje seja gratuita --, e sim sua **falta de transparência**, **restrições** e **características maliciosas**. De fato, a **exploração do usuário**, principalmente pela coleta e venda massiva de dados e indução ao vício, é o **modelo de negócios** por trás de aplicativos proprietários gratuitos.
 
-![Com software proprietário de fins lucrativos, principalmente os gratuitos, você é o produto.](https://csl-rp.github.io/assets/css/img/artigos/abuse_for_profit.png)
+![](https://csl-rp.github.io/assets/css/img/artigos/abuse_for_profit.png)
+*Com software proprietário de fins lucrativos, principalmente os gratuitos, você é o produto.*
 
 A abundância de escândalos midiáticos envolvendo software proprietário atesta ao fato de que é **imprudente** ceder os recursos do seu computador cegamente a programas cujo código um grupo restrito de programadores tem acesso. [Esta página](https://www.gnu.org/proprietary/proprietary.pt-br.html) contém exemplos de funcionalidades maliciosas em software proprietário e sua cobertura midiática. A única maneira de **salvaguardar sua privacidade** e evitar ter seu computador cooptado para os interesses escusos de terceiros é através de **software livre**.
 
@@ -70,7 +69,7 @@ Agora que justificamos os principais aspectos da nossa causa, vamos tratar das v
 
 ### Transparência
 
-A mesma transparência que exigimos de governantes, instituições públicas e empresas devemos exigir dos programas que executamos em nossos computadores; não devemos confiar nas promessas daqueles que não nos fornecem meios de verificá-las. Nem todos os usuários terão a expertise para ler e modificar o código fonte, mas a disponibilidade dele a qualquer um que possa conferí-lo reflete a credibilidade e intenções dos distribuidores de software livre.
+A mesma transparência que exigimos de governantes, instituições públicas e empresas devemos exigir dos programas que executamos em nossos computadores; não devemos confiar nas promessas daqueles que não nos fornecem meios de verificá-las. Nem todos os usuários terão a expertise para ler e modificar o código fonte, mas a disponibilidade dele a qualquer um que possa conferi-lo reflete a credibilidade e intenções dos distribuidores de software livre.
 
 ### Segurança
 
@@ -78,15 +77,17 @@ Software livre é muito mais seguro que suas contrapartidas proprietárias. O c�
 
 Não é a toa que a área de segurança da informação e software livre andam juntas. Não é de se surpreender também que todas as grandes empresas de software proprietário empregam software livre em toda a sua infraestrutura de segurança -- mesmo elas concordam que somente o consumidor final desinformado utilizaria software proprietário.
 
-![É impossível ter segurança da informação com software proprietário, pois ele sempre priorizará os interesses do seu proprietário sobre os do usuário.](/home/eduardo/images/obedece.png)
+![](https://csl-rp.github.io/assets/css/img/artigos/obedece.png)
+*É impossível ter segurança da informação com software proprietário, pois ele sempre priorizará os interesses do seu proprietário sobre os do usuário.*
 
 ### Privacidade
 
 Recentemente a discussão acerca da privacidade digital veio a tona para a maioria das pessoas, e por bom motivo: software proprietário instalado em nossos computadores, smartphones ou acessado pela web coletam cada aspecto da nossa vida digital e, hoje mais do que nunca, estes dados são correlacionados por inteligência artificial e utilizados para fins políticos e/ou lucrativos.
 
-Coletar montanhas de dados dos usuários é uma prática extremamente lucrativa, e, com software proprietário, é simples implementar e obscurescer mecanismos de prospecção massiva de informações do usuário. Por isso, a única maneira de proteger sua privacidade digital é através de software livre, onde há transparência para verificar se o programa não está coletando e enviando informações a um servidor remoto.
+Coletar montanhas de dados dos usuários é uma prática extremamente lucrativa, e, com software proprietário, é simples implementar e obscurecer mecanismos de prospecção massiva de informações do usuário. Por isso, a única maneira de proteger sua privacidade digital é através de software livre, onde há transparência para verificar se o programa não está coletando e enviando informações a um servidor remoto.
 
-![Uma quantidade impressionante de detalhes sobre você é deduzida através de suas interações na web e com software -- detalhes estes que você nunca escolheu compartilhar.](/home/eduardo/images/pregnant.png)
+![](https://csl-rp.github.io/assets/css/img/artigos/pregnant.png)
+*Uma quantidade impressionante de detalhes sobre você é deduzida através de suas interações na web e com software -- detalhes estes que você nunca escolheu compartilhar.*
 
 ### Qualidade
 
@@ -100,6 +101,7 @@ Por melhor que software livre seja na prática, é importante ressaltar que noss
 
 Se você está se perguntando como pode começar a usar software livre, ótimo! Este texto cumpriu seu papel. Um primeiro e significante passo é instalar um sistema operacional libre, como uma distribuição GNU/Linux ([o que é GNU?](Link pra seção apropriada no FAQ)) ou um BSD -- isso já livraria seu computador da maior parte do software proprietário que você usa, que compõem os ambientes proprietários nocivos e restritivos do Windows e MacOS. Mais importante, isso te colocaria em contato com uma grande variedade de programas livres e uma comunidade disposta a ajudá-la em sua jornada.
 
-![Habitantes da Federação GNU/Linux observam com pena a exploração a que os habitantes da Ditadura do Proprietário são submetidos. Felizmente, a Federação está de portas abertas!](/home/eduardo/images/slaves.png)
+![](https://csl-rp.github.io/assets/css/img/artigos/slaves.png)
+*Habitantes da Federação GNU/Linux observam com pena a exploração a que os habitantes da Ditadura do Proprietário são submetidos. Felizmente, a Federação está de portas abertas!*
 
 Confira o a nossa [Lista de Software Livre](Link para ela), que contém informações sobre vários programas proprietários de uso comum, por que você não deveria usá-los, e como substituí-los por software livre.
