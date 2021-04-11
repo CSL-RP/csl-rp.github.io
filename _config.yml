@@ -61,6 +61,7 @@ defaults:
     values:
       layout: post
       image: https://via.placeholder.com/1200x800
+      author: Desconhecido
       show_sidebar: false
 
 markdown: kramdown
