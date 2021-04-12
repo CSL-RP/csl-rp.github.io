@@ -1,0 +1,1 @@
+/home/eduardo/Documents/CSL/UtilizarGNU/2021-04-12-instalarlinux.md
