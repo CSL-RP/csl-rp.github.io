@@ -58,7 +58,6 @@ atendendo a necessidade de cada tipo de usuário.
  packages" by MuseScore is licensed with CC BY 2.0
  <https://creativecommons.org/licenses/by/2.0></i></center>
 
-
 A maioria das distribuições não são construídas do zero, elas se
 baseiam em outras distribuições, como é o caso do [Linux
 Mint](https://linuxmint.com.br), que possui versões construídas em cima
