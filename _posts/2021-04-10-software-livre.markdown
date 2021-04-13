@@ -1,7 +1,6 @@
 ---
 layout: page
-toc: true
-toc_title: "Índice"
+show_sidebar: true
 hide_footer: true
 title:  "O que é software livre"
 date:   2021-04-10 18:56:00
