@@ -34,8 +34,8 @@ liberdade do usuário, e portanto, um ótimo primeiro passo para se
 iniciar no software livre.
 
 <center><img
-src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Operating_system_placement-pt.svg"
-style="width: 60vw"></center> <center><i>Golftheman, <a
+src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Operating_system_placement-pt.svg">
+</center> <center><i>Golftheman, <a
 href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via
 Wikimedia Commons</i></center>
 \ 
@@ -102,7 +102,7 @@ visual em si.
 
 <center><img
 src="https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/distros.png"
-style="width: 75vw"></center> <center><i>Em ordem, KDE, Xfce,
+style="width: 60rem"></center> <center><i>Em ordem, KDE, Xfce,
 Gnome e LXQt</i></center>
 \ 
 
@@ -171,7 +171,7 @@ distribuição.
 
 <center><img
 src="https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/terminal.png"
-style="width: 40vw"></center>
+style="width: 20vw"></center>
 \ 
 
 Justamente por ser algo universal e que te dá maior controle sobre o
@@ -213,7 +213,7 @@ dependências do mesmo.
 
 <center><img
 src="https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/pacotes.png"
-style="width: 60vw"></center> <center><i>Imagem traduzida de:
+style="width: 30vmax"></center> <center><i>Imagem traduzida de:
 <a>https://itsfoss.com/package-manager</a> sob licensa <a
 href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA
 4.0</a></i></center>
