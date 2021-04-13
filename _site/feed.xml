@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="csl-rp.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="csl-rp.github.io/" rel="alternate" type="text/html" /><updated>2021-04-12T21:58:45-03:00</updated><id>csl-rp.github.io/feed.xml</id><title type="html">CSL-RP</title><subtitle>Site para a Comunidade de Software Livre de Ribeirão Preto
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="csl-rp.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="csl-rp.github.io/" rel="alternate" type="text/html" /><updated>2021-04-12T22:12:29-03:00</updated><id>csl-rp.github.io/feed.xml</id><title type="html">CSL-RP</title><subtitle>Site para a Comunidade de Software Livre de Ribeirão Preto
 </subtitle><entry><title type="html">O que você precisa saber para instalar e usar uma distribuição GNU/Linux</title><link href="csl-rp.github.io/conceitos/2021/04/12/sabergnulinux/" rel="alternate" type="text/html" title="O que você precisa saber para instalar e usar uma distribuição GNU/Linux" /><published>2021-04-12T14:06:00-03:00</published><updated>2021-04-12T14:06:00-03:00</updated><id>csl-rp.github.io/conceitos/2021/04/12/sabergnulinux</id><content type="html" xml:base="csl-rp.github.io/conceitos/2021/04/12/sabergnulinux/">&lt;h1 id=&quot;o-que-você-precisa-saber-para-instalar-e-usar-uma-distribuição-gnulinux&quot;&gt;O que você precisa saber para instalar e usar uma distribuição GNU/Linux&lt;/h1&gt;
 
 &lt;p&gt;Neste artigo estarei abordando os principais conceitos necessários para o
@@ -20,9 +20,8 @@ liberdade do usuário, e portanto, um ótimo primeiro passo para se
 iniciar no software livre.&lt;/p&gt;
 
 &lt;center&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/f/fd/Operating_system_placement-pt.svg&quot; style=&quot;width: 25vw&quot; /&gt;&lt;/center&gt;
-&lt;center&gt;&lt;i&gt;Golftheman, [CC BY
-3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia
-Commons&lt;/i&gt;&lt;/center&gt;
+&lt;center&gt;&lt;i&gt;Golftheman, &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0&quot;&gt;CC BY 3.0&lt;/a&gt;, via
+Wikimedia Commons&lt;/i&gt;&lt;/center&gt;
 
 &lt;h2 id=&quot;distribuições-gnulinux&quot;&gt;Distribuições GNU/Linux&lt;/h2&gt;
 
@@ -35,8 +34,8 @@ atendendo a necessidade de cada tipo de usuário.&lt;/p&gt;
 
 &lt;center&gt;&lt;img src=&quot;https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/tux.png&quot; style=&quot;width: 40vw&quot; /&gt;&lt;/center&gt;
 &lt;center&gt;&lt;i&gt;&quot;MuseScore 2.0 Linux
- packages&quot; by MuseScore is licensed with [CC BY
- 2.0](https://creativecommons.org/licenses/by/2.0)&lt;/i&gt;&lt;/center&gt;
+ packages&quot; by MuseScore is licensed with &lt;a href=&quot;https://creativecommons.org/licenses/by/2.0&quot;&gt;CC BY
+ 2.0&lt;/a&gt;&lt;/i&gt;&lt;/center&gt;
 
 &lt;p&gt;A maioria das distribuições não são construídas do zero, elas se
 baseiam em outras distribuições, como é o caso do &lt;a href=&quot;https://linuxmint.com.br&quot;&gt;Linux
@@ -188,8 +187,8 @@ dependências do mesmo.&lt;/p&gt;
 
 &lt;center&gt;&lt;img src=&quot;https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/pacotes.png&quot; style=&quot;width: 60vw&quot; /&gt;&lt;/center&gt;
 &lt;center&gt;&lt;i&gt;Imagem traduzida de:
-&amp;lt;https://itsfoss.com/package-manager&amp;gt; sob licensa [CC BY-SA
-4.0](https://creativecommons.org/licenses/by-sa/4.0)&lt;/i&gt;&lt;/center&gt;
+&lt;a&gt;https://itsfoss.com/package-manager&lt;/a&gt; sob licensa &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0&quot;&gt;CC BY-SA
+4.0&lt;/a&gt;&lt;/i&gt;&lt;/center&gt;
 
 &lt;p&gt;Cada distribuição fica encarregada de fornecer os pacotes para os
 usuários instalar, estes estão armazenados em servidores chamados de

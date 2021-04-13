@@ -38,9 +38,9 @@ iniciar no software livre.
 
 <center><img
 src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Operating_system_placement-pt.svg"
-style="width: 25vw"></center> <center><i>Golftheman, [CC BY
-3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia
-Commons</i></center>
+style="width: 25vw"></center> <center><i>Golftheman, <a
+href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via
+Wikimedia Commons</i></center>
 
 
 ## Distribuições GNU/Linux
@@ -55,8 +55,9 @@ atendendo a necessidade de cada tipo de usuário.
 <center><img
  src="https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/tux.png"
  style="width: 40vw"></center> <center><i>"MuseScore 2.0 Linux
- packages" by MuseScore is licensed with [CC BY
- 2.0](https://creativecommons.org/licenses/by/2.0)</i></center>
+ packages" by MuseScore is licensed with <a
+ href="https://creativecommons.org/licenses/by/2.0">CC BY
+ 2.0</a></i></center>
 
 A maioria das distribuições não são construídas do zero, elas se
 baseiam em outras distribuições, como é o caso do [Linux
@@ -212,8 +213,9 @@ dependências do mesmo.
 <center><img
 src="https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/pacotes.png"
 style="width: 60vw"></center> <center><i>Imagem traduzida de:
-<https://itsfoss.com/package-manager> sob licensa [CC BY-SA
-4.0](https://creativecommons.org/licenses/by-sa/4.0)</i></center>
+<a>https://itsfoss.com/package-manager</a> sob licensa <a
+href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA
+4.0</a></i></center>
 
 Cada distribuição fica encarregada de fornecer os pacotes para os
 usuários instalar, estes estão armazenados em servidores chamados de
