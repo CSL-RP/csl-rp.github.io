@@ -1,8 +1,3 @@
-- name: Tutoriais
-  link: /#
-  dropdown:
-    - name: Instalação Linux Mint
-      link: /tutorial-install-linux-mint/
 - name: Artigos
   link: /blog/
 - name: Contato
