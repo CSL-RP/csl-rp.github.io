@@ -1,6 +1,8 @@
 ---
-layout: post
+layout: page
 title:  "Primeiros passos em uma distribuição GNU/Linux"
+show_sidebar: true
+hide_footer: true
 date:   2021-04-12 17:06:00
 author: Carlos Eduardo Gallo Filho
 categories: conceitos
