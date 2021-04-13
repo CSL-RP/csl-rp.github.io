@@ -52,7 +52,7 @@ atendendo a necessidade de cada tipo de usuário.
 <center><img
  src="https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/tux.png"
  style="width: 40vw"></center> <center><i>"MuseScore 2.0 Linux
- packages" by MuseScore is licensed with <a
+ packages" por MuseScore; editado sob licensa <a
  href="https://creativecommons.org/licenses/by/2.0">CC BY
  2.0</a></i></center>
 
