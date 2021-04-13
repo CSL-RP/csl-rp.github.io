@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-04-13T01:13:16-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">CSL-RP</title><subtitle>Site para a Comunidade de Software Livre de Ribeirão Preto
-</subtitle><entry><title type="html">O que você precisa saber para instalar e usar uma distribuição GNU/Linux</title><link href="http://localhost:4000/conceitos/2021/04/12/sabergnulinux/" rel="alternate" type="text/html" title="O que você precisa saber para instalar e usar uma distribuição GNU/Linux" /><published>2021-04-12T14:06:00-03:00</published><updated>2021-04-12T14:06:00-03:00</updated><id>http://localhost:4000/conceitos/2021/04/12/sabergnulinux</id><content type="html" xml:base="http://localhost:4000/conceitos/2021/04/12/sabergnulinux/">&lt;p&gt;Neste artigo estarei abordando os principais conceitos necessários para o
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="csl-rp.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="csl-rp.github.io/" rel="alternate" type="text/html" /><updated>2021-04-13T17:07:11-03:00</updated><id>csl-rp.github.io/feed.xml</id><title type="html">CSL-RP</title><subtitle>Site para a Comunidade de Software Livre de Ribeirão Preto
+</subtitle><entry><title type="html">Primeiros passos em uma distribuição GNU/Linux</title><link href="csl-rp.github.io/conceitos/2021/04/12/sabergnulinux/" rel="alternate" type="text/html" title="Primeiros passos em uma distribuição GNU/Linux" /><published>2021-04-12T14:06:00-03:00</published><updated>2021-04-12T14:06:00-03:00</updated><id>csl-rp.github.io/conceitos/2021/04/12/sabergnulinux</id><content type="html" xml:base="csl-rp.github.io/conceitos/2021/04/12/sabergnulinux/">&lt;p&gt;Neste artigo estarei abordando os principais conceitos necessários para o
 breve entendimento do processo de instalação e utilização de um
 sistema operacional GNU/Linux, com foco em usuários iniciantes que
 nunca tiveram contato com o sistema.&lt;/p&gt;
@@ -17,9 +17,11 @@ contidos em um computador, sendo o principal responsável pela
 liberdade do usuário, e portanto, um ótimo primeiro passo para se
 iniciar no software livre.&lt;/p&gt;
 
-&lt;center&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/f/fd/Operating_system_placement-pt.svg&quot; style=&quot;width: 25vw&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/f/fd/Operating_system_placement-pt.svg&quot; /&gt;
+&lt;/center&gt;
 &lt;center&gt;&lt;i&gt;Golftheman, &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0&quot;&gt;CC BY 3.0&lt;/a&gt;, via
 Wikimedia Commons&lt;/i&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;distribuições-gnulinux&quot;&gt;Distribuições GNU/Linux&lt;/h1&gt;
 
@@ -30,10 +32,11 @@ tenha um sistema operacional completo e estável para o usuário final,
 pronto para ser &lt;strong&gt;distribuído&lt;/strong&gt;. São diversos os sabores, cada qual
 atendendo a necessidade de cada tipo de usuário.&lt;/p&gt;
 
-&lt;center&gt;&lt;img src=&quot;https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/tux.png&quot; style=&quot;width: 40vw&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/tux.png&quot; style=&quot;width: 20vw&quot; /&gt;&lt;/center&gt;
 &lt;center&gt;&lt;i&gt;&quot;MuseScore 2.0 Linux
  packages&quot; por MuseScore; editado sob licensa &lt;a href=&quot;https://creativecommons.org/licenses/by/2.0&quot;&gt;CC BY
  2.0&lt;/a&gt;&lt;/i&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;A maioria das distribuições não são construídas do zero, elas se
 baseiam em outras distribuições, como é o caso do &lt;a href=&quot;https://linuxmint.com.br&quot;&gt;Linux
@@ -46,7 +49,7 @@ mais popular em &lt;em&gt;desktops&lt;/em&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;escolhendo-uma-distribuição&quot;&gt;Escolhendo uma distribuição&lt;/h2&gt;
 &lt;p&gt;Dentre as distribuições mais voltadas à facilidade do usuário, estão o
-Linux Mint, &lt;a href=&quot;https://pop.system76.com&quot;&gt;Pop!_OS&lt;/a&gt; e o
+Linux Mint, &lt;a href=&quot;https://pop.system76.com&quot;&gt;Pop! OS&lt;/a&gt; e o
 &lt;a href=&quot;https://manjaro.org&quot;&gt;Manjaro&lt;/a&gt;. Estas em geral são pensadas em
 funcionarem com o mínimo de esforço do usuário, não necessitando de
 configuração excessiva e possibilitando uma instalação fácil, contando&lt;/p&gt;
@@ -77,9 +80,10 @@ com que você faz o uso do computador, sendo que os mais variados
 ambientes de trabalho possuem suas peculiaridades que não se abstém ao
 visual em si.&lt;/p&gt;
 
-&lt;center&gt;&lt;img src=&quot;https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/distros.png&quot; style=&quot;width: 75vw&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/distros.png&quot; style=&quot;width: 60rem&quot; /&gt;&lt;/center&gt;
 &lt;center&gt;&lt;i&gt;Em ordem, KDE, Xfce,
 Gnome e LXQt&lt;/i&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Muitas distribuições contam com certos ambientes de
 trabalho suportados, como o Manjaro, por exemplo, que conta com os
@@ -144,7 +148,8 @@ universal, um comando executado em uma distribuição GNU/Linux irá
 fazer exatamente o mesmo que o mesmo comando executado em outra
 distribuição.&lt;/p&gt;
 
-&lt;center&gt;&lt;img src=&quot;https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/terminal.png&quot; style=&quot;width: 40vw&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/terminal.png&quot; style=&quot;width: 20vw&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Justamente por ser algo universal e que te dá maior controle sobre o
 sistema, muitas coisas podem ser feitas mais eficientemente em um
@@ -183,10 +188,11 @@ pacotes. O gerenciador de pacotes é responsável por realizar a
 instalação, remoção e atualização de pacotes, bem como administrar as
 dependências do mesmo.&lt;/p&gt;
 
-&lt;center&gt;&lt;img src=&quot;https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/pacotes.png&quot; style=&quot;width: 60vw&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/pacotes.png&quot; style=&quot;width: 30vmax&quot; /&gt;&lt;/center&gt;
 &lt;center&gt;&lt;i&gt;Imagem traduzida de:
 &lt;a&gt;https://itsfoss.com/package-manager&lt;/a&gt; sob licensa &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0&quot;&gt;CC BY-SA
 4.0&lt;/a&gt;&lt;/i&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Cada distribuição fica encarregada de fornecer os pacotes para os
 usuários instalar, estes estão armazenados em servidores chamados de
@@ -216,7 +222,84 @@ cada tópico em apenas um artigo, a idéia é que isso possa te instigar
 sua curiosidade e trazer certo conforto ao iniciar nesse mundo do
 software livre, te fazendo perceber que usar software livre é muito
 mais simples do que parece ser. Espero ter conseguido cumprir este
-objetivo!&lt;/p&gt;</content><author><name>Carlos Eduardo Gallo Filho</name></author><summary type="html">Neste artigo estarei abordando os principais conceitos necessários para o breve entendimento do processo de instalação e utilização de um sistema operacional GNU/Linux, com foco em usuários iniciantes que nunca tiveram contato com o sistema.</summary></entry><entry><title type="html">O que é software livre</title><link href="http://localhost:4000/filosofia/2021/04/10/software-livre/" rel="alternate" type="text/html" title="O que é software livre" /><published>2021-04-10T15:56:00-03:00</published><updated>2021-04-10T15:56:00-03:00</updated><id>http://localhost:4000/filosofia/2021/04/10/software-livre</id><content type="html" xml:base="http://localhost:4000/filosofia/2021/04/10/software-livre/">&lt;h1 id=&quot;software-livre&quot;&gt;Software Livre&lt;/h1&gt;
+objetivo!&lt;/p&gt;</content><author><name>Carlos Eduardo Gallo Filho</name></author><summary type="html">Neste artigo estarei abordando os principais conceitos necessários para o breve entendimento do processo de instalação e utilização de um sistema operacional GNU/Linux, com foco em usuários iniciantes que nunca tiveram contato com o sistema.</summary></entry><entry><title type="html">Sabergnulinux</title><link href="csl-rp.github.io/2021/04/12/sabergnulinux/" rel="alternate" type="text/html" title="Sabergnulinux" /><published>2021-04-12T00:00:00-03:00</published><updated>2021-04-12T00:00:00-03:00</updated><id>csl-rp.github.io/2021/04/12/sabergnulinux</id><content type="html" xml:base="csl-rp.github.io/2021/04/12/sabergnulinux/">&lt;p&gt;Neste artigo estarei abordando os principais conceitos necessários para o breve entendimento do processo de instalação e utilização de um sistema operacional GNU/Linux, com foco em usuários iniciantes que nunca tiveram contato com o sistema.&lt;/p&gt;
+&lt;h1 id=&quot;sistema-operacional&quot;&gt;Sistema operacional&lt;/h1&gt;
+&lt;p&gt;A este ponto, você já deve ter lido sobre &lt;a href=&quot;link-oq-é-gnulinux&quot;&gt;O que é GNU/Linux&lt;/a&gt;. Resumidamente, este é um sistema operacional, que faz o papel de fornecer um ambiente para a execução de programas e utilização do computador. Distribuições GNU/Linux são hoje a maneira mais acessível de se instalar um sistema operacional livre em seu dispositivo. Por ser algo tão importante e complexo, o sistema operacional é responsável pela maior gama de softwares contidos em um computador, sendo o principal responsável pela liberdade do usuário, e portanto, um ótimo primeiro passo para se iniciar no software livre.&lt;/p&gt;
+&lt;center&gt;
+&lt;img
+src=&quot;https://upload.wikimedia.org/wikipedia/commons/f/fd/Operating_system_placement-pt.svg&quot;&gt;
+&lt;/center&gt;
+&lt;center&gt;
+&lt;i&gt;Golftheman, &lt;a
+href=&quot;https://creativecommons.org/licenses/by/3.0&quot;&gt;CC BY 3.0&lt;/a&gt;, via Wikimedia Commons&lt;/i&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h1 id=&quot;distribuições-gnulinux&quot;&gt;Distribuições GNU/Linux&lt;/h1&gt;
+&lt;p&gt;Uma distribuição GNU/Linux pode ser entendida como uma “versão” do sistema operacional GNU/Linux, sendo construída em cima “do” GNU/Linux e adicionando funcionalidades e modificações de maneira com que se tenha um sistema operacional completo e estável para o usuário final, pronto para ser &lt;strong&gt;distribuído&lt;/strong&gt;. São diversos os sabores, cada qual atendendo a necessidade de cada tipo de usuário.&lt;/p&gt;
+&lt;center&gt;
+&lt;img
+ src=&quot;https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/tux.png&quot;
+ style=&quot;width: 20vw&quot;&gt;
+&lt;/center&gt;
+&lt;center&gt;
+&lt;i&gt;“MuseScore 2.0 Linux packages” por MuseScore; editado sob licensa &lt;a
+ href=&quot;https://creativecommons.org/licenses/by/2.0&quot;&gt;CC BY 2.0&lt;/a&gt;&lt;/i&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;A maioria das distribuições não são construídas do zero, elas se baseiam em outras distribuições, como é o caso do &lt;a href=&quot;https://linuxmint.com.br&quot;&gt;Linux Mint&lt;/a&gt;, que possui versões construídas em cima do Ubuntu e do &lt;a href=&quot;https://www.debian.org/index.pt.html&quot;&gt;Debian&lt;/a&gt;, que são outras duas distribuições GNU/Linux. Muita parte do conteúdo encontrado para uma dada distribuição serve para as outras da mesma família e até mesmo outras distribuições sem parentesco, sendo a família Debian de longe a mais popular em &lt;em&gt;desktops&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;escolhendo-uma-distribuição&quot;&gt;Escolhendo uma distribuição&lt;/h2&gt;
+&lt;p&gt;Dentre as distribuições mais voltadas à facilidade do usuário, estão o Linux Mint, &lt;a href=&quot;https://pop.system76.com&quot;&gt;Pop! OS&lt;/a&gt; e o &lt;a href=&quot;https://manjaro.org&quot;&gt;Manjaro&lt;/a&gt;. Estas em geral são pensadas em funcionarem com o mínimo de esforço do usuário, não necessitando de configuração excessiva e possibilitando uma instalação fácil, contando&lt;/p&gt;
+&lt;p&gt;também com diversos programas já pré-instalados. A escolha de uma distribuição com esse fim normalmente é a mais indicada para usuários que estão acostumadas a utilização do sistema operacional proprietário Window$ ou não possuem experiência com o uso de computadores.&lt;/p&gt;
+&lt;p&gt;Caso se sinta confortável em ir a fundo no aprendizado do sistema operacional GNU/Linux, é mais recomendável que se escolha uma distribuição com uma documentação mais detalhada e até mesmo técnica, como é o caso do próprio Debian e do &lt;a href=&quot;https://archlinux.org&quot;&gt;Arch Linux&lt;/a&gt;, que contem uma das mais completas wikis disponíveis dentre as distribuições.&lt;/p&gt;
+&lt;h1 id=&quot;ambiente-de-trabalho&quot;&gt;Ambiente de trabalho&lt;/h1&gt;
+&lt;p&gt;O ambiente de trabalho, ou &lt;em&gt;desktop environment&lt;/em&gt; (DE), é a camada superior do sistema operacional responsável pela interação direta com o usuário, através de aplicativos, &lt;em&gt;widgets&lt;/em&gt; e da própria disposição das coisas, representando também o visual do sistema. Muitas vezes o ambiente de trabalho é chamado erroneamente de “interface gráfica”.&lt;/p&gt;
+&lt;p&gt;Por ser a camada mais superficial do sistema, essa é a parte na qual o usuário realmente vai mais interagir, ditando de certa forma a maneira com que você faz o uso do computador, sendo que os mais variados ambientes de trabalho possuem suas peculiaridades que não se abstém ao visual em si.&lt;/p&gt;
+&lt;center&gt;
+&lt;img
+src=&quot;https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/distros.png&quot;
+style=&quot;width: 60rem&quot;&gt;
+&lt;/center&gt;
+&lt;center&gt;
+&lt;i&gt;Em ordem, KDE, Xfce, Gnome e LXQt&lt;/i&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Muitas distribuições contam com certos ambientes de trabalho suportados, como o Manjaro, por exemplo, que conta com os ambientes &lt;a href=&quot;https://www.gnome.org/&quot;&gt;Gnome&lt;/a&gt;, &lt;a href=&quot;https://kde.org/pt-br&quot;&gt;KDE&lt;/a&gt; e &lt;a href=&quot;https://xfce.org/?lang=pt_BR&quot;&gt;Xfce&lt;/a&gt;, que são uns dos ambientes mais populares. Um ponto relevante na escolha do ambiente de trabalho é seu &lt;em&gt;hardware&lt;/em&gt;, ou seja, as especificações do computador que você está usando. Para computadores mais antigos e mais modestos, ambientes como o Xfce, &lt;a href=&quot;https://mate-desktop.org/pt&quot;&gt;MATE&lt;/a&gt; e &lt;a href=&quot;https://lxqt-project.org/&quot;&gt;LXQt&lt;/a&gt; são mais recomendados pois são bem leves.&lt;/p&gt;
+&lt;p&gt;É importante ressaltar que, por mais que a DE defina a estética e fluxo de trabalho do sistema, a mesma também é altamente customizável pelo usuário, claro que algumas mais e outras menos. Essa liberdade de customização só é encontrada em softwares livres.&lt;/p&gt;
+&lt;h1 id=&quot;documentação&quot;&gt;Documentação&lt;/h1&gt;
+&lt;p&gt;Software livre e documentação andam sempre de mãos dadas. Uma documentação boa deve ser capaz de introduzir e explicar ao usuário sobre o uso do software, através de manuais e wikis; fornecendo também documentação técnica para o desenvolvimento do software em sí. Um exemplo de ótima documentação é a &lt;a href=&quot;https://wiki.archlinux.org/&quot;&gt;wiki do Arch Linux&lt;/a&gt;, já citada anteriormente neste artigo.&lt;/p&gt;
+&lt;p&gt;O uso da documentação da distribuição GNU/Linux ou de qualquer outro software que seja é imprenscindível para a boa utilização e aprendizado do mesmo. Portanto, você deve aprender a buscar ajuda não apenas em fóruns e blogs, mas também nos próprios sites oficiais dos softwares dos quais você busca por informação. Isso potencializa sua liberdade e independência, pois evita que você apenas siga passos a passos e permite que você entenda de fato o que está fazendo.&lt;/p&gt;
+&lt;h1 id=&quot;partindo-para-a-instalação&quot;&gt;Partindo para a instalação&lt;/h1&gt;
+&lt;p&gt;Existem alguns processos que independem da escolha de distribuição, sendo a &lt;a href=&quot;&quot;&gt;criação de uma mídia de inicialização&lt;/a&gt; e o &lt;em&gt;boot&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Após ter a mídia de inicialização da sua distribuição escolhida, você precisará fazer o &lt;em&gt;boot&lt;/em&gt; nesta. &lt;em&gt;Boot&lt;/em&gt; remete literalmente ao processo de inicialização do sistema, ou seja, quando você liga o computador, ele realiza o &lt;em&gt;boot&lt;/em&gt; e inicia o sistema que foi configurado para carregar. Para selecionar o dispositivo que se deseja inicializar, no caso, a mídia de instalação da distribuição escolhida, veja &lt;a href=&quot;&quot;&gt;como &lt;em&gt;bootar&lt;/em&gt; em uma mídia de inicialização&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Quando você já tiver inicializado na mídia de instalação, será o momento em que você seguirá a documentação da distribuição escolhida, onde necessariamente terá um guia de instalação mostrando e explicando o “passo a passo” da instalação.&lt;/p&gt;
+&lt;h1 id=&quot;o-temido-terminal&quot;&gt;O temido terminal&lt;/h1&gt;
+&lt;p&gt;O terminal é algo que pode espantar um pouco usuários iniciantes no GNU/Linux por aparentar ser algo difícil. Longe disso, o terminal é algo que facilita, e muito, a sua vida. Claro, ao se escolher uma distribuição mais voltada à facilidade de uso, você praticamente nunca terá que usar o terminal. A linha de comando é uma interface universal, um comando executado em uma distribuição GNU/Linux irá fazer exatamente o mesmo que o mesmo comando executado em outra distribuição.&lt;/p&gt;
+&lt;center&gt;
+&lt;img
+src=&quot;https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/terminal.png&quot;
+style=&quot;width: 20vw&quot;&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Justamente por ser algo universal e que te dá maior controle sobre o sistema, muitas coisas podem ser feitas mais eficientemente em um terminal, como por exemplo, solucionar um problema. Portanto, é muito aconselhável que você não tenha medo e tente se ambientar com o uso do terminal, com certeza é algo que valerá muito a pena.&lt;/p&gt;
+&lt;h1 id=&quot;gerenciamento-de-pacotes&quot;&gt;Gerenciamento de pacotes&lt;/h1&gt;
+&lt;p&gt;Nos sistemas GNU/Linux, todo software é instalado em forma de pacote. Cada pacote denota, por exemplo, um programa em si; mas não necessariamente, pois a maioria dos pacotes são &lt;strong&gt;dependências&lt;/strong&gt;. As dependências são softwares que são instalados para possibilitar o funcionamento de um terceiro, isso seguindo a &lt;a href=&quot;&quot;&gt;filosofia Unix&lt;/a&gt;, sistema operacional predecessor ao GNU/Linux, os softwares devem ser simples, específicos e eficientes, sendo que, sempre que um software precise de uma função que já seja realizada por um terceiro, este deve fazer uso do mesmo ao invés de realizar a mesma funcionalidade.&lt;/p&gt;
+&lt;p&gt;Para exemplificar, imagine que um software precise realizar a visualização de uma imagem. Existe para isso, uma biblioteca que permite o programa interpretar tal tipo de imagem e poder fazer com que esta apareça na tela. Sendo assim, o visualizador de imagem fará apenas o papel de usar tal biblioteca para visualizar tal formato de imagem. Nessa forma, se há algum outro software que também precisa ler imagens, este pode fazer uso da mesma biblioteca que o visualizador de imagem utilizou, evitando que você tenha vários softwares para a mesma coisa instalados e tornando o sistema como um todo mais eficiente. Por isso, é esperado que inúmeros programas façam uso de uma mesma dependência.&lt;/p&gt;
+&lt;h2 id=&quot;gerenciador-de-pacotes&quot;&gt;Gerenciador de pacotes&lt;/h2&gt;
+&lt;p&gt;Manusear os pacotes individualmente com certeza não é uma tarefa fácil, e por isso, toda distribuição conta com um gerenciador de pacotes. O gerenciador de pacotes é responsável por realizar a instalação, remoção e atualização de pacotes, bem como administrar as dependências do mesmo.&lt;/p&gt;
+&lt;center&gt;
+&lt;img
+src=&quot;https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/pacotes.png&quot;
+style=&quot;width: 30vmax&quot;&gt;
+&lt;/center&gt;
+&lt;center&gt;
+&lt;i&gt;Imagem traduzida de: &lt;a&gt;https://itsfoss.com/package-manager&lt;/a&gt; sob licensa &lt;a
+href=&quot;https://creativecommons.org/licenses/by-sa/4.0&quot;&gt;CC BY-SA 4.0&lt;/a&gt;&lt;/i&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Cada distribuição fica encarregada de fornecer os pacotes para os usuários instalar, estes estão armazenados em servidores chamados de &lt;strong&gt;repositórios&lt;/strong&gt;. Basicamente, os repositórios atuam como um grande banco de pacotes, possuindo todos os possíveis softwares que você possa vir a desejar instalar. Cada distribuição possui seus próprios repositórios, que são acessados pelo seu sistema quando se deseja instalar ou atualizar os pacotes. Sendo assim, você não precisa buscar cada programa que deseja instalar na internet, todos estão disponíveis nos repositórios. Você pode fazer a instalação de softwares através de algum aplicativo semelhante a uma “loja” ou pelo próprio terminal, basta saber o nome do aplicativo que se deseja instalar.&lt;/p&gt;
+&lt;p&gt;Já que a administração do sistema é tão fácil, é importante que tudo esteja sempre atualizado. Isso evita que falhas de segurança e bugs já solucionados se mantenham no seu sistema. A utilização do gerenciador de pacotes depende de qual sua distribuição, sendo que a este ponto, você deve consultar a documentação da mesma para aprender de fato a utilizar o gerenciador para instalar, remover e atualizar aplicativos.&lt;/p&gt;
+&lt;h1 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h1&gt;
+&lt;p&gt;Com os assuntos tratados neste artigo, você deve ser capaz de entender superficialmente os conceitos necessários para a utilização de um sistema GNU/Linux. Claro que seria impossível explicar profundamente cada tópico em apenas um artigo, a idéia é que isso possa te instigar sua curiosidade e trazer certo conforto ao iniciar nesse mundo do software livre, te fazendo perceber que usar software livre é muito mais simples do que parece ser. Espero ter conseguido cumprir este objetivo!&lt;/p&gt;</content><author><name>Desconhecido</name></author><summary type="html">Neste artigo estarei abordando os principais conceitos necessários para o breve entendimento do processo de instalação e utilização de um sistema operacional GNU/Linux, com foco em usuários iniciantes que nunca tiveram contato com o sistema. Sistema operacional A este ponto, você já deve ter lido sobre O que é GNU/Linux. Resumidamente, este é um sistema operacional, que faz o papel de fornecer um ambiente para a execução de programas e utilização do computador. Distribuições GNU/Linux são hoje a maneira mais acessível de se instalar um sistema operacional livre em seu dispositivo. Por ser algo tão importante e complexo, o sistema operacional é responsável pela maior gama de softwares contidos em um computador, sendo o principal responsável pela liberdade do usuário, e portanto, um ótimo primeiro passo para se iniciar no software livre. Golftheman, CC BY 3.0, via Wikimedia Commons Distribuições GNU/Linux Uma distribuição GNU/Linux pode ser entendida como uma “versão” do sistema operacional GNU/Linux, sendo construída em cima “do” GNU/Linux e adicionando funcionalidades e modificações de maneira com que se tenha um sistema operacional completo e estável para o usuário final, pronto para ser distribuído. São diversos os sabores, cada qual atendendo a necessidade de cada tipo de usuário. “MuseScore 2.0 Linux packages” por MuseScore; editado sob licensa CC BY 2.0 A maioria das distribuições não são construídas do zero, elas se baseiam em outras distribuições, como é o caso do Linux Mint, que possui versões construídas em cima do Ubuntu e do Debian, que são outras duas distribuições GNU/Linux. Muita parte do conteúdo encontrado para uma dada distribuição serve para as outras da mesma família e até mesmo outras distribuições sem parentesco, sendo a família Debian de longe a mais popular em desktops. Escolhendo uma distribuição Dentre as distribuições mais voltadas à facilidade do usuário, estão o Linux Mint, Pop! OS e o Manjaro. Estas em geral são pensadas em funcionarem com o mínimo de esforço do usuário, não necessitando de configuração excessiva e possibilitando uma instalação fácil, contando também com diversos programas já pré-instalados. A escolha de uma distribuição com esse fim normalmente é a mais indicada para usuários que estão acostumadas a utilização do sistema operacional proprietário Window$ ou não possuem experiência com o uso de computadores. Caso se sinta confortável em ir a fundo no aprendizado do sistema operacional GNU/Linux, é mais recomendável que se escolha uma distribuição com uma documentação mais detalhada e até mesmo técnica, como é o caso do próprio Debian e do Arch Linux, que contem uma das mais completas wikis disponíveis dentre as distribuições. Ambiente de trabalho O ambiente de trabalho, ou desktop environment (DE), é a camada superior do sistema operacional responsável pela interação direta com o usuário, através de aplicativos, widgets e da própria disposição das coisas, representando também o visual do sistema. Muitas vezes o ambiente de trabalho é chamado erroneamente de “interface gráfica”. Por ser a camada mais superficial do sistema, essa é a parte na qual o usuário realmente vai mais interagir, ditando de certa forma a maneira com que você faz o uso do computador, sendo que os mais variados ambientes de trabalho possuem suas peculiaridades que não se abstém ao visual em si. Em ordem, KDE, Xfce, Gnome e LXQt Muitas distribuições contam com certos ambientes de trabalho suportados, como o Manjaro, por exemplo, que conta com os ambientes Gnome, KDE e Xfce, que são uns dos ambientes mais populares. Um ponto relevante na escolha do ambiente de trabalho é seu hardware, ou seja, as especificações do computador que você está usando. Para computadores mais antigos e mais modestos, ambientes como o Xfce, MATE e LXQt são mais recomendados pois são bem leves. É importante ressaltar que, por mais que a DE defina a estética e fluxo de trabalho do sistema, a mesma também é altamente customizável pelo usuário, claro que algumas mais e outras menos. Essa liberdade de customização só é encontrada em softwares livres. Documentação Software livre e documentação andam sempre de mãos dadas. Uma documentação boa deve ser capaz de introduzir e explicar ao usuário sobre o uso do software, através de manuais e wikis; fornecendo também documentação técnica para o desenvolvimento do software em sí. Um exemplo de ótima documentação é a wiki do Arch Linux, já citada anteriormente neste artigo. O uso da documentação da distribuição GNU/Linux ou de qualquer outro software que seja é imprenscindível para a boa utilização e aprendizado do mesmo. Portanto, você deve aprender a buscar ajuda não apenas em fóruns e blogs, mas também nos próprios sites oficiais dos softwares dos quais você busca por informação. Isso potencializa sua liberdade e independência, pois evita que você apenas siga passos a passos e permite que você entenda de fato o que está fazendo. Partindo para a instalação Existem alguns processos que independem da escolha de distribuição, sendo a criação de uma mídia de inicialização e o boot. Após ter a mídia de inicialização da sua distribuição escolhida, você precisará fazer o boot nesta. Boot remete literalmente ao processo de inicialização do sistema, ou seja, quando você liga o computador, ele realiza o boot e inicia o sistema que foi configurado para carregar. Para selecionar o dispositivo que se deseja inicializar, no caso, a mídia de instalação da distribuição escolhida, veja como bootar em uma mídia de inicialização. Quando você já tiver inicializado na mídia de instalação, será o momento em que você seguirá a documentação da distribuição escolhida, onde necessariamente terá um guia de instalação mostrando e explicando o “passo a passo” da instalação. O temido terminal O terminal é algo que pode espantar um pouco usuários iniciantes no GNU/Linux por aparentar ser algo difícil. Longe disso, o terminal é algo que facilita, e muito, a sua vida. Claro, ao se escolher uma distribuição mais voltada à facilidade de uso, você praticamente nunca terá que usar o terminal. A linha de comando é uma interface universal, um comando executado em uma distribuição GNU/Linux irá fazer exatamente o mesmo que o mesmo comando executado em outra distribuição. Justamente por ser algo universal e que te dá maior controle sobre o sistema, muitas coisas podem ser feitas mais eficientemente em um terminal, como por exemplo, solucionar um problema. Portanto, é muito aconselhável que você não tenha medo e tente se ambientar com o uso do terminal, com certeza é algo que valerá muito a pena. Gerenciamento de pacotes Nos sistemas GNU/Linux, todo software é instalado em forma de pacote. Cada pacote denota, por exemplo, um programa em si; mas não necessariamente, pois a maioria dos pacotes são dependências. As dependências são softwares que são instalados para possibilitar o funcionamento de um terceiro, isso seguindo a filosofia Unix, sistema operacional predecessor ao GNU/Linux, os softwares devem ser simples, específicos e eficientes, sendo que, sempre que um software precise de uma função que já seja realizada por um terceiro, este deve fazer uso do mesmo ao invés de realizar a mesma funcionalidade. Para exemplificar, imagine que um software precise realizar a visualização de uma imagem. Existe para isso, uma biblioteca que permite o programa interpretar tal tipo de imagem e poder fazer com que esta apareça na tela. Sendo assim, o visualizador de imagem fará apenas o papel de usar tal biblioteca para visualizar tal formato de imagem. Nessa forma, se há algum outro software que também precisa ler imagens, este pode fazer uso da mesma biblioteca que o visualizador de imagem utilizou, evitando que você tenha vários softwares para a mesma coisa instalados e tornando o sistema como um todo mais eficiente. Por isso, é esperado que inúmeros programas façam uso de uma mesma dependência. Gerenciador de pacotes Manusear os pacotes individualmente com certeza não é uma tarefa fácil, e por isso, toda distribuição conta com um gerenciador de pacotes. O gerenciador de pacotes é responsável por realizar a instalação, remoção e atualização de pacotes, bem como administrar as dependências do mesmo. Imagem traduzida de: https://itsfoss.com/package-manager sob licensa CC BY-SA 4.0 Cada distribuição fica encarregada de fornecer os pacotes para os usuários instalar, estes estão armazenados em servidores chamados de repositórios. Basicamente, os repositórios atuam como um grande banco de pacotes, possuindo todos os possíveis softwares que você possa vir a desejar instalar. Cada distribuição possui seus próprios repositórios, que são acessados pelo seu sistema quando se deseja instalar ou atualizar os pacotes. Sendo assim, você não precisa buscar cada programa que deseja instalar na internet, todos estão disponíveis nos repositórios. Você pode fazer a instalação de softwares através de algum aplicativo semelhante a uma “loja” ou pelo próprio terminal, basta saber o nome do aplicativo que se deseja instalar. Já que a administração do sistema é tão fácil, é importante que tudo esteja sempre atualizado. Isso evita que falhas de segurança e bugs já solucionados se mantenham no seu sistema. A utilização do gerenciador de pacotes depende de qual sua distribuição, sendo que a este ponto, você deve consultar a documentação da mesma para aprender de fato a utilizar o gerenciador para instalar, remover e atualizar aplicativos. Conclusão Com os assuntos tratados neste artigo, você deve ser capaz de entender superficialmente os conceitos necessários para a utilização de um sistema GNU/Linux. Claro que seria impossível explicar profundamente cada tópico em apenas um artigo, a idéia é que isso possa te instigar sua curiosidade e trazer certo conforto ao iniciar nesse mundo do software livre, te fazendo perceber que usar software livre é muito mais simples do que parece ser. Espero ter conseguido cumprir este objetivo!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://via.placeholder.com/1200x800" /><media:content medium="image" url="https://via.placeholder.com/1200x800" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">O que é software livre</title><link href="csl-rp.github.io/filosofia/2021/04/10/software-livre/" rel="alternate" type="text/html" title="O que é software livre" /><published>2021-04-10T15:56:00-03:00</published><updated>2021-04-10T15:56:00-03:00</updated><id>csl-rp.github.io/filosofia/2021/04/10/software-livre</id><content type="html" xml:base="csl-rp.github.io/filosofia/2021/04/10/software-livre/">&lt;h1 id=&quot;software-livre&quot;&gt;Software Livre&lt;/h1&gt;
 
 &lt;p&gt;Esta página tem como objetivo introduzir ao leitor o conceito de software livre e suas vantagens em relação ao software proprietário. Recomendamos que confira o &lt;a href=&quot;link do FAQ&quot;&gt;FAQ&lt;/a&gt; em caso de dúvidas.&lt;/p&gt;
 
@@ -252,6 +335,7 @@ objetivo!&lt;/p&gt;</content><author><name>Carlos Eduardo Gallo Filho</name></au
 &lt;center&gt;&lt;i&gt;
 Código fonte é o que os programadores escrevem, e é um formato legível ao ser humano. A partir da fonte é gerado um executável, que é compreensível somente à máquina.*
 &lt;/i&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;A liberdade n. 0 é autoexplicativa quanto ao propósito de conceder ao usuário o controle sobre seus dispositivos. A &lt;strong&gt;transparência&lt;/strong&gt; promovida pela liberdade n. 1 permite que o usuário entenda o que um programa &lt;strong&gt;de fato faz em seu computador&lt;/strong&gt; - um direito com frequência menosprezado - e possibilita que softwares livres sejam constantemente &lt;strong&gt;melhorados&lt;/strong&gt;: seja pela adição de novas funcionalidades ou &lt;strong&gt;remoção de características que prejudicam seus usuários&lt;/strong&gt;.&lt;/p&gt;
 
@@ -262,6 +346,7 @@ Código fonte é o que os programadores escrevem, e é um formato legível ao se
 &lt;center&gt;&lt;i&gt;
 As 4 liberdades permitem que os usuários determinem os usos e o destino de um programa, mesmo aqueles que não são programadores.
 &lt;/i&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Estas liberdades podem parecer relativamente inconsequentes a primeira vista, mas são &lt;strong&gt;fundamentais&lt;/strong&gt; para o propósito do movimento de software livre: &lt;strong&gt;que os usuários tenham controle sobre seus dispositivos e sua vida digital&lt;/strong&gt;. O movimento de software livre existe em oposição ao &lt;strong&gt;software proprietário&lt;/strong&gt;, portanto, para compreender a relevância das nossas pautas, é importante esclarecer o que é que &lt;strong&gt;agimos contra&lt;/strong&gt;:&lt;/p&gt;
 
@@ -274,6 +359,7 @@ As 4 liberdades permitem que os usuários determinem os usos e o destino de um p
 &lt;center&gt;&lt;i&gt;
 Com software proprietário, os usuários estão a mercê dos desenvolvedores, que têm acesso exclusivo aos programas e podem usar o computador do usuário para seus próprios fins.
 &lt;/i&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;As consequências destas restrições são dramáticas. A menos que o usuário possa ler o código fonte do programa, é &lt;strong&gt;praticamente impossível&lt;/strong&gt; saber o que &lt;strong&gt;realmente está sendo executado em seu computador&lt;/strong&gt;; some a isto o fato de que o usuário &lt;strong&gt;não pode modificar o programa&lt;/strong&gt;, tampouco usufruir de &lt;strong&gt;versões modificadas por outros&lt;/strong&gt;, e temos o &lt;strong&gt;ambiente perfeito&lt;/strong&gt; para a introdução de funcionalidades que existem para &lt;strong&gt;explorar o usuário&lt;/strong&gt;.&lt;/p&gt;
 
@@ -284,6 +370,7 @@ Com software proprietário, os usuários estão a mercê dos desenvolvedores, qu
 &lt;center&gt;&lt;i&gt;
 Com software proprietário de fins lucrativos, principalmente os gratuitos, você é o produto.
 &lt;/i&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;A abundância de escândalos midiáticos envolvendo software proprietário atesta ao fato de que é &lt;strong&gt;imprudente&lt;/strong&gt; ceder os recursos do seu computador cegamente a programas cujo código um grupo restrito de programadores tem acesso. &lt;a href=&quot;https://www.gnu.org/proprietary/proprietary.pt-br.html&quot;&gt;Esta página&lt;/a&gt; contém exemplos de funcionalidades maliciosas em software proprietário e sua cobertura midiática. A única maneira de &lt;strong&gt;salvaguardar sua privacidade&lt;/strong&gt; e evitar ter seu computador cooptado para os interesses escusos de terceiros é através de &lt;strong&gt;software livre&lt;/strong&gt;.&lt;/p&gt;
 
@@ -310,6 +397,7 @@ Com software proprietário de fins lucrativos, principalmente os gratuitos, voc�
 &lt;center&gt;&lt;i&gt;
 É impossível ter segurança da informação com software proprietário, pois ele sempre priorizará os interesses do seu proprietário sobre os do usuário.
 &lt;/i&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;privacidade&quot;&gt;Privacidade&lt;/h3&gt;
 
@@ -322,6 +410,7 @@ Com software proprietário de fins lucrativos, principalmente os gratuitos, voc�
 &lt;center&gt;&lt;i&gt;
 Uma quantidade impressionante de detalhes sobre você é deduzida através de suas interações na web e com software -- detalhes estes que você nunca escolheu compartilhar.
 &lt;/i&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;qualidade&quot;&gt;Qualidade&lt;/h3&gt;
 
@@ -340,5 +429,6 @@ Uma quantidade impressionante de detalhes sobre você é deduzida através de su
 &lt;center&gt;&lt;i&gt;
 Habitantes da Federação GNU/Linux observam com pena a exploração a que os habitantes da Ditadura do Proprietário são submetidos. Felizmente, a Federação está de portas abertas!
 &lt;/i&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Confira o a nossa &lt;a href=&quot;Link para ela&quot;&gt;Lista de Software Livre&lt;/a&gt;, que contém informações sobre vários programas proprietários de uso comum, por que você não deveria usá-los, e como substituí-los por software livre.&lt;/p&gt;</content><author><name>Eduardo Lopes Dias</name></author><summary type="html">Software Livre</summary></entry></feed>
