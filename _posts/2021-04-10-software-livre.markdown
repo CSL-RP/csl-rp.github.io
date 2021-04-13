@@ -1,5 +1,7 @@
 ---
-layout: post
+layout: page
+menubar_toc: true
+toc_title: "Índice"
 title:  "O que é software livre"
 date:   2021-04-10 18:56:00
 author: Eduardo Lopes Dias
