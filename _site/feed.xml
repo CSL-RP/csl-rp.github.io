@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="csl-rp.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="csl-rp.github.io/" rel="alternate" type="text/html" /><updated>2021-04-12T20:00:04-03:00</updated><id>csl-rp.github.io/feed.xml</id><title type="html">CSL-RP</title><subtitle>Site para a Comunidade de Software Livre de Ribeirão Preto
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="csl-rp.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="csl-rp.github.io/" rel="alternate" type="text/html" /><updated>2021-04-12T21:44:49-03:00</updated><id>csl-rp.github.io/feed.xml</id><title type="html">CSL-RP</title><subtitle>Site para a Comunidade de Software Livre de Ribeirão Preto
 </subtitle><entry><title type="html">O que você precisa saber para instalar e usar uma distribuição GNU/Linux</title><link href="csl-rp.github.io/conceitos/2021/04/12/sabergnulinux/" rel="alternate" type="text/html" title="O que você precisa saber para instalar e usar uma distribuição GNU/Linux" /><published>2021-04-12T14:06:00-03:00</published><updated>2021-04-12T14:06:00-03:00</updated><id>csl-rp.github.io/conceitos/2021/04/12/sabergnulinux</id><content type="html" xml:base="csl-rp.github.io/conceitos/2021/04/12/sabergnulinux/">&lt;h1 id=&quot;o-que-você-precisa-saber-para-instalar-e-usar-uma-distribuição-gnulinux&quot;&gt;O que você precisa saber para instalar e usar uma distribuição GNU/Linux&lt;/h1&gt;
 
 &lt;p&gt;Neste artigo estarei abordando os principais conceitos necessários para o
@@ -19,12 +19,10 @@ contidos em um computador, sendo o principal responsável pela
 liberdade do usuário, e portanto, um ótimo primeiro passo para se
 iniciar no software livre.&lt;/p&gt;
 
-&lt;center&gt;&amp;lt;img
-src=&quot;https://upload.wikimedia.org/wikipedia/commons/f/fd/Operating_system_placement-pt.svg&quot;
-style=&quot;width: 25vw&quot; ...&amp;gt;&lt;/center&gt;
-&lt;center&gt;&lt;i&gt;Golftheman, CC BY 3.0
-&amp;lt;https://creativecommons.org/licenses/by/3.0&amp;gt;, via Wikimedia
-Commons&lt;/i&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/f/fd/Operating_system_placement-pt.svg&quot; style=&quot;width: 25vw&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;*Golftheman, [CC BY
+3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia
+Commons*&lt;/center&gt;
 
 &lt;h2 id=&quot;distribuições-gnulinux&quot;&gt;Distribuições GNU/Linux&lt;/h2&gt;
 
@@ -35,12 +33,10 @@ tenha um sistema operacional completo e estável para o usuário final,
 pronto para ser &lt;strong&gt;distribuído&lt;/strong&gt;. São diversos os sabores, cada qual
 atendendo a necessidade de cada tipo de usuário.&lt;/p&gt;
 
-&lt;center&gt;&amp;lt;img
- src=&quot;https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/tux.png&quot;
- style=&quot;width: 40vw&quot; ...&amp;gt;&lt;/center&gt;
-&lt;center&gt;&lt;i&gt;&quot;MuseScore 2.0 Linux
- packages&quot; by MuseScore is licensed with CC BY 2.0
- &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;&lt;/i&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/tux.png&quot; style=&quot;width: 40vw&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;*&quot;MuseScore 2.0 Linux
+ packages&quot; by MuseScore is licensed with [CC BY
+ 2.0](https://creativecommons.org/licenses/by/2.0)*&lt;/center&gt;
 
 &lt;p&gt;A maioria das distribuições não são construídas do zero, elas se
 baseiam em outras distribuições, como é o caso do &lt;a href=&quot;https://linuxmint.com.br&quot;&gt;Linux
@@ -84,11 +80,9 @@ com que você faz o uso do computador, sendo que os mais variados
 ambientes de trabalho possuem suas peculiaridades que não se abstém ao
 visual em si.&lt;/p&gt;
 
-&lt;center&gt;&amp;lt;img
-src=&quot;https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/distros.png&quot;
-style=&quot;width: 75vw&quot; ...&amp;gt;&lt;/center&gt;
-&lt;center&gt;&lt;i&gt;Em ordem, KDE, Xfce,
-Gnome e LXQt&lt;/i&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/distros.png&quot; style=&quot;width: 75vw&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;*Em ordem, KDE, Xfce,
+Gnome e LXQt*&amp;lt;/i&amp;gt;&lt;/center&gt;
 
 &lt;p&gt;Muitas distribuições contam com certos ambientes de
 trabalho suportados, como o Manjaro, por exemplo, que conta com os
@@ -153,9 +147,7 @@ universal, um comando executado em uma distribuição GNU/Linux irá
 fazer exatamente o mesmo que o mesmo comando executado em outra
 distribuição.&lt;/p&gt;
 
-&lt;center&gt;&amp;lt;img
-src=&quot;https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/terminal.png&quot;
-style=&quot;width: 40vw&quot; ...&amp;gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/terminal.png&quot; style=&quot;width: 40vw&quot; /&gt;&lt;/center&gt;
 
 &lt;p&gt;Justamente por ser algo universal e que te dá maior controle sobre o
 sistema, muitas coisas podem ser feitas mais eficientemente em um
@@ -194,12 +186,9 @@ pacotes. O gerenciador de pacotes é responsável por realizar a
 instalação, remoção e atualização de pacotes, bem como administrar as
 dependências do mesmo.&lt;/p&gt;
 
-&lt;center&gt;&amp;lt;img
- src=&quot;https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/pacotes.png&quot;
- style=&quot;width: 60vw&quot; ...&amp;gt;&lt;/center&gt;
-&lt;center&gt;&lt;i&gt;Imagem traduzida de:
- &amp;lt;https://itsfoss.com/package-manager&amp;gt; sob licensa CC BY-SA 4.0
- &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;&lt;/i&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/pacotes.png&quot; style=&quot;width: 60vw&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;*Imagem traduzida de:
+&amp;lt;https://itsfoss.com/package-manager&amp;gt; sob licensa [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)*&lt;/center&gt;
 
 &lt;p&gt;Cada distribuição fica encarregada de fornecer os pacotes para os
 usuários instalar, estes estão armazenados em servidores chamados de
@@ -354,94 +343,4 @@ Uma quantidade impressionante de detalhes sobre você é deduzida através de su
 Habitantes da Federação GNU/Linux observam com pena a exploração a que os habitantes da Ditadura do Proprietário são submetidos. Felizmente, a Federação está de portas abertas!
 &lt;/i&gt;&lt;/center&gt;
 
-&lt;p&gt;Confira o a nossa &lt;a href=&quot;Link para ela&quot;&gt;Lista de Software Livre&lt;/a&gt;, que contém informações sobre vários programas proprietários de uso comum, por que você não deveria usá-los, e como substituí-los por software livre.&lt;/p&gt;</content><author><name>Eduardo Lopes Dias</name></author><summary type="html">Software Livre</summary></entry><entry><title type="html">Software Livre</title><link href="csl-rp.github.io/2021/04/10/software-livre/" rel="alternate" type="text/html" title="Software Livre" /><published>2021-04-10T00:00:00-03:00</published><updated>2021-04-10T00:00:00-03:00</updated><id>csl-rp.github.io/2021/04/10/software-livre</id><content type="html" xml:base="csl-rp.github.io/2021/04/10/software-livre/">&lt;h1 id=&quot;software-livre&quot;&gt;Software Livre&lt;/h1&gt;
-&lt;p&gt;Esta página tem como objetivo introduzir ao leitor o conceito de software livre e suas vantagens em relação ao software proprietário. Recomendamos que confira o &lt;a href=&quot;link%20do%20FAQ&quot;&gt;FAQ&lt;/a&gt; em caso de dúvidas.&lt;/p&gt;
-&lt;h2 id=&quot;o-que-é-software-livre&quot;&gt;O que é software livre&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Tratando-se de software, ou os usuários controlam o programa, ou o programa controla os usuários.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;-Richard Stallman&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Designa-se por &lt;strong&gt;software livre&lt;/strong&gt; os &lt;strong&gt;programas de computador&lt;/strong&gt; que respeitam as &lt;strong&gt;liberdades do usuário&lt;/strong&gt;, em particular as liberdades de:&lt;/p&gt;
-&lt;ol start=&quot;0&quot; type=&quot;1&quot;&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Executar&lt;/strong&gt; o programa para &lt;strong&gt;qualquer propósito&lt;/strong&gt;, por &lt;strong&gt;qualquer pessoa&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Estudar&lt;/strong&gt; o funcionamento do programa, e &lt;strong&gt;modificá-lo&lt;/strong&gt; para que ele faça o que &lt;strong&gt;você quer&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Compartilhar&lt;/strong&gt; cópias do programa.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Distribuir cópias modificadas&lt;/strong&gt; do programa.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Um pré-requisito para a efetivação da 1° liberdade é a disponibilidade do &lt;strong&gt;código fonte&lt;/strong&gt; do programa, ou seja, é essencial que o software seja &lt;a href=&quot;link%20para%20o%20FAQ&quot;&gt;&lt;strong&gt;open source&lt;/strong&gt;&lt;/a&gt; para ser considerado livre. Este não é o único requisito, no entanto: as liberdades referentes à &lt;strong&gt;distribuição&lt;/strong&gt; do software são &lt;strong&gt;igualmente importantes&lt;/strong&gt;.&lt;/p&gt;
-&lt;center&gt;
-&lt;img
-src=&quot;https://csl-rp.github.io/assets/css/img/artigos/source_machine.png&quot;&gt;
-&lt;/center&gt;
-&lt;center&gt;
-&lt;i&gt; Código fonte é o que os programadores escrevem, e é um formato legível ao ser humano. A partir da fonte é gerado um executável, que é compreensível somente à máquina.* &lt;/i&gt;
-&lt;/center&gt;
-&lt;p&gt;A liberdade n. 0 é autoexplicativa quanto ao propósito de conceder ao usuário o controle sobre seus dispositivos. A &lt;strong&gt;transparência&lt;/strong&gt; promovida pela liberdade n. 1 permite que o usuário entenda o que um programa &lt;strong&gt;de fato faz em seu computador&lt;/strong&gt; - um direito com frequência menosprezado - e possibilita que softwares livres sejam constantemente &lt;strong&gt;melhorados&lt;/strong&gt;: seja pela adição de novas funcionalidades ou &lt;strong&gt;remoção de características que prejudicam seus usuários&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Por fim, as liberdades 2 e 3 &lt;strong&gt;promovem o bem comum&lt;/strong&gt;: permite que versões cada vez melhores dos softwares livres sejam &lt;strong&gt;compartilhadas&lt;/strong&gt; e usufruídas mesmo por &lt;strong&gt;pessoas que não são programadoras&lt;/strong&gt;. Deste modo, todos os usuários se beneficiam com a &lt;strong&gt;segurança&lt;/strong&gt;, &lt;strong&gt;transparência&lt;/strong&gt; e &lt;strong&gt;controle&lt;/strong&gt; que existem graças à liberdade 1, &lt;strong&gt;mesmo não a exercendo diretamente&lt;/strong&gt; (isto é, mesmo que não leia ou modifique o código).&lt;/p&gt;
-&lt;center&gt;
-&lt;img
-src=&quot;https://csl-rp.github.io/assets/css/img/artigos/happy_people2.png&quot;&gt;
-&lt;/center&gt;
-&lt;center&gt;
-&lt;i&gt; As 4 liberdades permitem que os usuários determinem os usos e o destino de um programa, mesmo aqueles que não são programadores. &lt;/i&gt;
-&lt;/center&gt;
-&lt;p&gt;Estas liberdades podem parecer relativamente inconsequentes a primeira vista, mas são &lt;strong&gt;fundamentais&lt;/strong&gt; para o propósito do movimento de software livre: &lt;strong&gt;que os usuários tenham controle sobre seus dispositivos e sua vida digital&lt;/strong&gt;. O movimento de software livre existe em oposição ao &lt;strong&gt;software proprietário&lt;/strong&gt;, portanto, para compreender a relevância das nossas pautas, é importante esclarecer o que é que &lt;strong&gt;agimos contra&lt;/strong&gt;:&lt;/p&gt;
-&lt;h2 id=&quot;software-proprietário&quot;&gt;Software proprietário&lt;/h2&gt;
-&lt;p&gt;Em termos simples, software proprietário é aquele que &lt;strong&gt;restringe&lt;/strong&gt; o usuário ao &lt;strong&gt;privá-lo&lt;/strong&gt; de ao menos uma das &lt;strong&gt;4 liberdades&lt;/strong&gt; apresentadas acima (normalmente há restrições que negam todas as 4). Estas restrições são implementadas através dos &lt;strong&gt;termos de uso&lt;/strong&gt; impostos aos usuários, que os tornam passíveis de prossecução legal caso insistam em &lt;strong&gt;utilizar&lt;/strong&gt;, &lt;strong&gt;estudar&lt;/strong&gt; ou &lt;strong&gt;distribuir&lt;/strong&gt; o programa instalado em &lt;strong&gt;seu computador&lt;/strong&gt; da maneira que acharem melhor.&lt;/p&gt;
-&lt;center&gt;
-&lt;img
-src=&quot;https://csl-rp.github.io/assets/css/img/artigos/prop_software.png&quot;&gt;
-&lt;/center&gt;
-&lt;center&gt;
-&lt;i&gt; Com software proprietário, os usuários estão a mercê dos desenvolvedores, que têm acesso exclusivo aos programas e podem usar o computador do usuário para seus próprios fins. &lt;/i&gt;
-&lt;/center&gt;
-&lt;p&gt;As consequências destas restrições são dramáticas. A menos que o usuário possa ler o código fonte do programa, é &lt;strong&gt;praticamente impossível&lt;/strong&gt; saber o que &lt;strong&gt;realmente está sendo executado em seu computador&lt;/strong&gt;; some a isto o fato de que o usuário &lt;strong&gt;não pode modificar o programa&lt;/strong&gt;, tampouco usufruir de &lt;strong&gt;versões modificadas por outros&lt;/strong&gt;, e temos o &lt;strong&gt;ambiente perfeito&lt;/strong&gt; para a introdução de funcionalidades que existem para &lt;strong&gt;explorar o usuário&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Vale ressaltar que o usuário &lt;strong&gt;não precisa ser um programador&lt;/strong&gt; para &lt;strong&gt;desconfiar da falta de transparência&lt;/strong&gt; de software proprietário – a indisponibilidade do código para pessoas capazes de analisá-lo deve ser encarada com o devido &lt;strong&gt;ceticismo&lt;/strong&gt;. É importante também enfatizar que nossas objeções a software proprietário &lt;strong&gt;não têm a ver com seu custo&lt;/strong&gt; – de fato, talvez a maioria do software proprietário hoje seja gratuita –, e sim sua &lt;strong&gt;falta de transparência&lt;/strong&gt;, &lt;strong&gt;restrições&lt;/strong&gt; e &lt;strong&gt;características maliciosas&lt;/strong&gt;. De fato, a &lt;strong&gt;exploração do usuário&lt;/strong&gt;, principalmente pela coleta e venda massiva de dados e indução ao vício, é o &lt;strong&gt;modelo de negócios&lt;/strong&gt; por trás de aplicativos proprietários gratuitos.&lt;/p&gt;
-&lt;center&gt;
-&lt;img
-src=&quot;https://csl-rp.github.io/assets/css/img/artigos/abuse_for_profit.png&quot;&gt;
-&lt;/center&gt;
-&lt;center&gt;
-&lt;i&gt; Com software proprietário de fins lucrativos, principalmente os gratuitos, você é o produto. &lt;/i&gt;
-&lt;/center&gt;
-&lt;p&gt;A abundância de escândalos midiáticos envolvendo software proprietário atesta ao fato de que é &lt;strong&gt;imprudente&lt;/strong&gt; ceder os recursos do seu computador cegamente a programas cujo código um grupo restrito de programadores tem acesso. &lt;a href=&quot;https://www.gnu.org/proprietary/proprietary.pt-br.html&quot;&gt;Esta página&lt;/a&gt; contém exemplos de funcionalidades maliciosas em software proprietário e sua cobertura midiática. A única maneira de &lt;strong&gt;salvaguardar sua privacidade&lt;/strong&gt; e evitar ter seu computador cooptado para os interesses escusos de terceiros é através de &lt;strong&gt;software livre&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Mesmo deixando de lado os aspectos maliciosos de software proprietário, é &lt;strong&gt;inconcebível&lt;/strong&gt; que uma universidade pública adote em tão larga escala programas proprietários. &lt;a href=&quot;http://www.leginf.usp.br/?resolucao=consolidada-resolucao-no-3461-de-7-de-outubro-de-1988#t1&quot;&gt;Os propósitos declarados&lt;/a&gt; de uma universidade pública – &lt;strong&gt;de democratizar o acesso à educação e de produzir conhecimento de modo a beneficiar a sociedade&lt;/strong&gt; – é &lt;strong&gt;incompatível&lt;/strong&gt; com o modelo &lt;strong&gt;restritivo&lt;/strong&gt; e &lt;strong&gt;exclusivista&lt;/strong&gt; de acesso à informação promovido por &lt;strong&gt;software proprietário&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Para uma abordagem mais extensiva sobre software proprietário e seus males, confira &lt;a href=&quot;Link%20disso&quot;&gt;Como software proprietário fere a universidade e seus alunos&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;vantages-do-software-livre&quot;&gt;Vantages do software livre&lt;/h2&gt;
-&lt;p&gt;Agora que justificamos os principais aspectos da nossa causa, vamos tratar das vantagens mais práticas do software livre. Como poderão verificar, elas são todas consequências das 4 liberdades.&lt;/p&gt;
-&lt;h3 id=&quot;transparência&quot;&gt;Transparência&lt;/h3&gt;
-&lt;p&gt;A mesma transparência que exigimos de governantes, instituições públicas e empresas devemos exigir dos programas que executamos em nossos computadores; não devemos confiar nas promessas daqueles que não nos fornecem meios de verificá-las. Nem todos os usuários terão a expertise para ler e modificar o código fonte, mas a disponibilidade dele a qualquer um que possa conferi-lo reflete a credibilidade e intenções dos distribuidores de software livre.&lt;/p&gt;
-&lt;h3 id=&quot;segurança&quot;&gt;Segurança&lt;/h3&gt;
-&lt;p&gt;Software livre é muito mais seguro que suas contrapartidas proprietárias. O código de programas grandes e importantes como o kernel Linux está disponível para análise e revisão de um número muito maior de pessoas do que seria possível com software proprietário de código fechado; consequentemente, bugs e vulnerabilidades são mais rapidamente detectadas e corrigidas. Além disso, software proprietário muitas vezes contém vulnerabilidades propositais para facilitar acesso pelos distribuidores do software e agências de inteligência.&lt;/p&gt;
-&lt;p&gt;Não é a toa que a área de segurança da informação e software livre andam juntas. Não é de se surpreender também que todas as grandes empresas de software proprietário empregam software livre em toda a sua infraestrutura de segurança – mesmo elas concordam que somente o consumidor final desinformado utilizaria software proprietário.&lt;/p&gt;
-&lt;center&gt;
-&lt;img
-src=&quot;https://csl-rp.github.io/assets/css/img/artigos/obedece.png&quot;&gt;
-&lt;/center&gt;
-&lt;center&gt;
-&lt;i&gt; É impossível ter segurança da informação com software proprietário, pois ele sempre priorizará os interesses do seu proprietário sobre os do usuário. &lt;/i&gt;
-&lt;/center&gt;
-&lt;h3 id=&quot;privacidade&quot;&gt;Privacidade&lt;/h3&gt;
-&lt;p&gt;Recentemente a discussão acerca da privacidade digital veio a tona para a maioria das pessoas, e por bom motivo: software proprietário instalado em nossos computadores, smartphones ou acessado pela web coletam cada aspecto da nossa vida digital e, hoje mais do que nunca, estes dados são correlacionados por inteligência artificial e utilizados para fins políticos e/ou lucrativos.&lt;/p&gt;
-&lt;p&gt;Coletar montanhas de dados dos usuários é uma prática extremamente lucrativa, e, com software proprietário, é simples implementar e obscurecer mecanismos de prospecção massiva de informações do usuário. Por isso, a única maneira de proteger sua privacidade digital é através de software livre, onde há transparência para verificar se o programa não está coletando e enviando informações a um servidor remoto.&lt;/p&gt;
-&lt;center&gt;
-&lt;img
-src=&quot;https://csl-rp.github.io/assets/css/img/artigos/pregnant.png&quot;&gt;
-&lt;/center&gt;
-&lt;center&gt;
-&lt;i&gt; Uma quantidade impressionante de detalhes sobre você é deduzida através de suas interações na web e com software – detalhes estes que você nunca escolheu compartilhar. &lt;/i&gt;
-&lt;/center&gt;
-&lt;h3 id=&quot;qualidade&quot;&gt;Qualidade&lt;/h3&gt;
-&lt;p&gt;Software livre simplesmente funciona melhor do que software proprietário na maioria das vezes. Software livre costuma ser mais leve, mais rápido, mais customizável, além de mais seguro, como mencionado acima. Isso é consequência direta do poder que software livre dá aos usuários – eles são encorajados a modificar o programa de modo que ele melhor atenda as suas necessidades, e somente as suas necessidades.&lt;/p&gt;
-&lt;p&gt;Grande parte do desempenho e melhor usabilidade do software livre se dá pela ausência das características maliciosas de software proprietário. Elas existem para os fins do proprietário em detrimento ao usuário, e consomem recursos significativos do computador.&lt;/p&gt;
-&lt;p&gt;Por melhor que software livre seja na prática, é importante ressaltar que nosso propósito não é necessariamente aumentar a qualidade de software no geral – nossa campanha é, acima de tudo, pelos &lt;strong&gt;direitos dos usuários de software&lt;/strong&gt;. Software livre é a melhor opção antes mesmo de considerarmos suas vantagens técnicas, pois eles respeitam os direitos e as liberdades do usuário!&lt;/p&gt;
-&lt;h2 id=&quot;o-que-fazer&quot;&gt;O que fazer&lt;/h2&gt;
-&lt;p&gt;Se você está se perguntando como pode começar a usar software livre, ótimo! Este texto cumpriu seu papel. Um primeiro e significante passo é instalar um sistema operacional libre, como uma distribuição GNU/Linux (&lt;a href=&quot;Link%20pra%20seção%20apropriada%20no%20FAQ&quot;&gt;o que é GNU?&lt;/a&gt;) ou um BSD – isso já livraria seu computador da maior parte do software proprietário que você usa, que compõem os ambientes proprietários nocivos e restritivos do Windows e MacOS. Mais importante, isso te colocaria em contato com uma grande variedade de programas livres e uma comunidade disposta a ajudá-la em sua jornada.&lt;/p&gt;
-&lt;center&gt;
-&lt;img
-src=&quot;https://csl-rp.github.io/assets/css/img/artigos/slaves.png&quot;&gt;
-&lt;/center&gt;
-&lt;center&gt;
-&lt;i&gt; Habitantes da Federação GNU/Linux observam com pena a exploração a que os habitantes da Ditadura do Proprietário são submetidos. Felizmente, a Federação está de portas abertas! &lt;/i&gt;
-&lt;/center&gt;
-&lt;p&gt;Confira o a nossa &lt;a href=&quot;Link%20para%20ela&quot;&gt;Lista de Software Livre&lt;/a&gt;, que contém informações sobre vários programas proprietários de uso comum, por que você não deveria usá-los, e como substituí-los por software livre.&lt;/p&gt;</content><author><name>Desconhecido</name></author><summary type="html">Software Livre Esta página tem como objetivo introduzir ao leitor o conceito de software livre e suas vantagens em relação ao software proprietário. Recomendamos que confira o FAQ em caso de dúvidas. O que é software livre Tratando-se de software, ou os usuários controlam o programa, ou o programa controla os usuários. -Richard Stallman Designa-se por software livre os programas de computador que respeitam as liberdades do usuário, em particular as liberdades de: Executar o programa para qualquer propósito, por qualquer pessoa. Estudar o funcionamento do programa, e modificá-lo para que ele faça o que você quer. Compartilhar cópias do programa. Distribuir cópias modificadas do programa. Um pré-requisito para a efetivação da 1° liberdade é a disponibilidade do código fonte do programa, ou seja, é essencial que o software seja open source para ser considerado livre. Este não é o único requisito, no entanto: as liberdades referentes à distribuição do software são igualmente importantes. Código fonte é o que os programadores escrevem, e é um formato legível ao ser humano. A partir da fonte é gerado um executável, que é compreensível somente à máquina.* A liberdade n. 0 é autoexplicativa quanto ao propósito de conceder ao usuário o controle sobre seus dispositivos. A transparência promovida pela liberdade n. 1 permite que o usuário entenda o que um programa de fato faz em seu computador - um direito com frequência menosprezado - e possibilita que softwares livres sejam constantemente melhorados: seja pela adição de novas funcionalidades ou remoção de características que prejudicam seus usuários. Por fim, as liberdades 2 e 3 promovem o bem comum: permite que versões cada vez melhores dos softwares livres sejam compartilhadas e usufruídas mesmo por pessoas que não são programadoras. Deste modo, todos os usuários se beneficiam com a segurança, transparência e controle que existem graças à liberdade 1, mesmo não a exercendo diretamente (isto é, mesmo que não leia ou modifique o código). As 4 liberdades permitem que os usuários determinem os usos e o destino de um programa, mesmo aqueles que não são programadores. Estas liberdades podem parecer relativamente inconsequentes a primeira vista, mas são fundamentais para o propósito do movimento de software livre: que os usuários tenham controle sobre seus dispositivos e sua vida digital. O movimento de software livre existe em oposição ao software proprietário, portanto, para compreender a relevância das nossas pautas, é importante esclarecer o que é que agimos contra: Software proprietário Em termos simples, software proprietário é aquele que restringe o usuário ao privá-lo de ao menos uma das 4 liberdades apresentadas acima (normalmente há restrições que negam todas as 4). Estas restrições são implementadas através dos termos de uso impostos aos usuários, que os tornam passíveis de prossecução legal caso insistam em utilizar, estudar ou distribuir o programa instalado em seu computador da maneira que acharem melhor. Com software proprietário, os usuários estão a mercê dos desenvolvedores, que têm acesso exclusivo aos programas e podem usar o computador do usuário para seus próprios fins. As consequências destas restrições são dramáticas. A menos que o usuário possa ler o código fonte do programa, é praticamente impossível saber o que realmente está sendo executado em seu computador; some a isto o fato de que o usuário não pode modificar o programa, tampouco usufruir de versões modificadas por outros, e temos o ambiente perfeito para a introdução de funcionalidades que existem para explorar o usuário. Vale ressaltar que o usuário não precisa ser um programador para desconfiar da falta de transparência de software proprietário – a indisponibilidade do código para pessoas capazes de analisá-lo deve ser encarada com o devido ceticismo. É importante também enfatizar que nossas objeções a software proprietário não têm a ver com seu custo – de fato, talvez a maioria do software proprietário hoje seja gratuita –, e sim sua falta de transparência, restrições e características maliciosas. De fato, a exploração do usuário, principalmente pela coleta e venda massiva de dados e indução ao vício, é o modelo de negócios por trás de aplicativos proprietários gratuitos. Com software proprietário de fins lucrativos, principalmente os gratuitos, você é o produto. A abundância de escândalos midiáticos envolvendo software proprietário atesta ao fato de que é imprudente ceder os recursos do seu computador cegamente a programas cujo código um grupo restrito de programadores tem acesso. Esta página contém exemplos de funcionalidades maliciosas em software proprietário e sua cobertura midiática. A única maneira de salvaguardar sua privacidade e evitar ter seu computador cooptado para os interesses escusos de terceiros é através de software livre. Mesmo deixando de lado os aspectos maliciosos de software proprietário, é inconcebível que uma universidade pública adote em tão larga escala programas proprietários. Os propósitos declarados de uma universidade pública – de democratizar o acesso à educação e de produzir conhecimento de modo a beneficiar a sociedade – é incompatível com o modelo restritivo e exclusivista de acesso à informação promovido por software proprietário. Para uma abordagem mais extensiva sobre software proprietário e seus males, confira Como software proprietário fere a universidade e seus alunos Vantages do software livre Agora que justificamos os principais aspectos da nossa causa, vamos tratar das vantagens mais práticas do software livre. Como poderão verificar, elas são todas consequências das 4 liberdades. Transparência A mesma transparência que exigimos de governantes, instituições públicas e empresas devemos exigir dos programas que executamos em nossos computadores; não devemos confiar nas promessas daqueles que não nos fornecem meios de verificá-las. Nem todos os usuários terão a expertise para ler e modificar o código fonte, mas a disponibilidade dele a qualquer um que possa conferi-lo reflete a credibilidade e intenções dos distribuidores de software livre. Segurança Software livre é muito mais seguro que suas contrapartidas proprietárias. O código de programas grandes e importantes como o kernel Linux está disponível para análise e revisão de um número muito maior de pessoas do que seria possível com software proprietário de código fechado; consequentemente, bugs e vulnerabilidades são mais rapidamente detectadas e corrigidas. Além disso, software proprietário muitas vezes contém vulnerabilidades propositais para facilitar acesso pelos distribuidores do software e agências de inteligência. Não é a toa que a área de segurança da informação e software livre andam juntas. Não é de se surpreender também que todas as grandes empresas de software proprietário empregam software livre em toda a sua infraestrutura de segurança – mesmo elas concordam que somente o consumidor final desinformado utilizaria software proprietário. É impossível ter segurança da informação com software proprietário, pois ele sempre priorizará os interesses do seu proprietário sobre os do usuário. Privacidade Recentemente a discussão acerca da privacidade digital veio a tona para a maioria das pessoas, e por bom motivo: software proprietário instalado em nossos computadores, smartphones ou acessado pela web coletam cada aspecto da nossa vida digital e, hoje mais do que nunca, estes dados são correlacionados por inteligência artificial e utilizados para fins políticos e/ou lucrativos. Coletar montanhas de dados dos usuários é uma prática extremamente lucrativa, e, com software proprietário, é simples implementar e obscurecer mecanismos de prospecção massiva de informações do usuário. Por isso, a única maneira de proteger sua privacidade digital é através de software livre, onde há transparência para verificar se o programa não está coletando e enviando informações a um servidor remoto. Uma quantidade impressionante de detalhes sobre você é deduzida através de suas interações na web e com software – detalhes estes que você nunca escolheu compartilhar. Qualidade Software livre simplesmente funciona melhor do que software proprietário na maioria das vezes. Software livre costuma ser mais leve, mais rápido, mais customizável, além de mais seguro, como mencionado acima. Isso é consequência direta do poder que software livre dá aos usuários – eles são encorajados a modificar o programa de modo que ele melhor atenda as suas necessidades, e somente as suas necessidades. Grande parte do desempenho e melhor usabilidade do software livre se dá pela ausência das características maliciosas de software proprietário. Elas existem para os fins do proprietário em detrimento ao usuário, e consomem recursos significativos do computador. Por melhor que software livre seja na prática, é importante ressaltar que nosso propósito não é necessariamente aumentar a qualidade de software no geral – nossa campanha é, acima de tudo, pelos direitos dos usuários de software. Software livre é a melhor opção antes mesmo de considerarmos suas vantagens técnicas, pois eles respeitam os direitos e as liberdades do usuário! O que fazer Se você está se perguntando como pode começar a usar software livre, ótimo! Este texto cumpriu seu papel. Um primeiro e significante passo é instalar um sistema operacional libre, como uma distribuição GNU/Linux (o que é GNU?) ou um BSD – isso já livraria seu computador da maior parte do software proprietário que você usa, que compõem os ambientes proprietários nocivos e restritivos do Windows e MacOS. Mais importante, isso te colocaria em contato com uma grande variedade de programas livres e uma comunidade disposta a ajudá-la em sua jornada. Habitantes da Federação GNU/Linux observam com pena a exploração a que os habitantes da Ditadura do Proprietário são submetidos. Felizmente, a Federação está de portas abertas! Confira o a nossa Lista de Software Livre, que contém informações sobre vários programas proprietários de uso comum, por que você não deveria usá-los, e como substituí-los por software livre.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://via.placeholder.com/1200x800" /><media:content medium="image" url="https://via.placeholder.com/1200x800" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;Confira o a nossa &lt;a href=&quot;Link para ela&quot;&gt;Lista de Software Livre&lt;/a&gt;, que contém informações sobre vários programas proprietários de uso comum, por que você não deveria usá-los, e como substituí-los por software livre.&lt;/p&gt;</content><author><name>Eduardo Lopes Dias</name></author><summary type="html">Software Livre</summary></entry></feed>
