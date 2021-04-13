@@ -14,16 +14,13 @@ comments: false
 hero_title: true
 ---
 
-
-# O que você precisa saber para instalar e usar uma distribuição GNU/Linux
-
 Neste artigo estarei abordando os principais conceitos necessários para o
 breve entendimento do processo de instalação e utilização de um
 sistema operacional GNU/Linux, com foco em usuários iniciantes que
 nunca tiveram contato com o sistema.
 
 
-## Sistema operacional
+# Sistema operacional
 
 A este ponto, você já deve ter lido sobre [O que é
 GNU/Linux](link-oq-é-gnulinux). Resumidamente, este é um sistema
@@ -43,7 +40,7 @@ href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via
 Wikimedia Commons</i></center>
 
 
-## Distribuições GNU/Linux
+# Distribuições GNU/Linux
 
 Uma distribuição GNU/Linux pode ser entendida como uma "versão" do
 sistema operacional GNU/Linux, sendo construída em cima "do" GNU/Linux
@@ -68,7 +65,7 @@ dada distribuição serve para as outras da mesma família e até mesmo
 outras distribuições sem parentesco, sendo a família Debian de longe a
 mais popular em _desktops_.
 
-### Escolhendo uma distribuição
+## Escolhendo uma distribuição
 Dentre as distribuições mais voltadas à facilidade do usuário, estão o
 Linux Mint, [Pop!_OS](https://pop.system76.com) e o
 [Manjaro](https://manjaro.org). Estas em geral são pensadas em
@@ -87,7 +84,7 @@ como é o caso do próprio Debian e do [Arch
 Linux](https://archlinux.org), que contem uma das mais completas wikis
 disponíveis dentre as distribuições.
 
-## Ambiente de trabalho
+# Ambiente de trabalho
 
 O ambiente de trabalho, ou _desktop environment_ (DE), é a camada
 superior do sistema operacional responsável pela interação direta com
@@ -122,7 +119,7 @@ fluxo de trabalho do sistema, a mesma também é altamente customizável
 pelo usuário, claro que algumas mais e outras menos. Essa liberdade de
 customização só é encontrada em softwares livres.
 
-## Documentação
+# Documentação
 
 Software livre e documentação andam sempre de mãos dadas. Uma
 documentação boa deve ser capaz de introduzir e explicar ao usuário
@@ -140,7 +137,7 @@ softwares dos quais você busca por informação. Isso potencializa sua
 liberdade e independência, pois evita que você apenas siga passos a
 passos e permite que você entenda de fato o que está fazendo.
 
-## Partindo para a instalação
+# Partindo para a instalação
 
 Existem alguns processos que independem da escolha de distribuição,
 sendo a [criação de uma mídia de inicialização]() e o _boot_.
@@ -158,7 +155,7 @@ momento em que você seguirá a documentação da distribuição escolhida,
 onde necessariamente terá um guia de instalação mostrando e explicando
 o "passo a passo" da instalação.
 
-## O temido terminal
+# O temido terminal
 
 O terminal é algo que pode espantar um pouco usuários iniciantes no
 GNU/Linux por aparentar ser algo difícil. Longe disso, o terminal é
@@ -179,7 +176,7 @@ terminal, como por exemplo, solucionar um problema. Portanto, é muito
 aconselhável que você não tenha medo e tente se ambientar com o uso do
 terminal, com certeza é algo que valerá muito a pena.
 
-## Gerenciamento de pacotes
+# Gerenciamento de pacotes
 
 Nos sistemas GNU/Linux, todo software é instalado em forma de
 pacote. Cada pacote denota, por exemplo, um programa em si; mas não
@@ -203,7 +200,7 @@ coisa instalados e tornando o sistema como um todo mais eficiente. Por
 isso, é esperado que inúmeros programas façam uso de uma mesma
 dependência.
 
-### Gerenciador de pacotes
+## Gerenciador de pacotes
 Manusear os pacotes individualmente com certeza não é uma tarefa
 fácil, e por isso, toda distribuição conta com um gerenciador de
 pacotes. O gerenciador de pacotes é responsável por realizar a
@@ -236,7 +233,7 @@ de pacotes depende de qual sua distribuição, sendo que a este ponto,
 você deve consultar a documentação da mesma para aprender de fato a
 utilizar o gerenciador para instalar, remover e atualizar aplicativos.
 
-## Conclusão
+# Conclusão
 
 Com os assuntos tratados neste artigo, você deve ser capaz de entender
 superficialmente os conceitos necessários para a utilização de um

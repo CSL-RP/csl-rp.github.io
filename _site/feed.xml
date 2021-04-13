@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="csl-rp.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="csl-rp.github.io/" rel="alternate" type="text/html" /><updated>2021-04-12T22:12:29-03:00</updated><id>csl-rp.github.io/feed.xml</id><title type="html">CSL-RP</title><subtitle>Site para a Comunidade de Software Livre de Ribeirão Preto
-</subtitle><entry><title type="html">O que você precisa saber para instalar e usar uma distribuição GNU/Linux</title><link href="csl-rp.github.io/conceitos/2021/04/12/sabergnulinux/" rel="alternate" type="text/html" title="O que você precisa saber para instalar e usar uma distribuição GNU/Linux" /><published>2021-04-12T14:06:00-03:00</published><updated>2021-04-12T14:06:00-03:00</updated><id>csl-rp.github.io/conceitos/2021/04/12/sabergnulinux</id><content type="html" xml:base="csl-rp.github.io/conceitos/2021/04/12/sabergnulinux/">&lt;h1 id=&quot;o-que-você-precisa-saber-para-instalar-e-usar-uma-distribuição-gnulinux&quot;&gt;O que você precisa saber para instalar e usar uma distribuição GNU/Linux&lt;/h1&gt;
-
-&lt;p&gt;Neste artigo estarei abordando os principais conceitos necessários para o
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="csl-rp.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="csl-rp.github.io/" rel="alternate" type="text/html" /><updated>2021-04-12T22:15:56-03:00</updated><id>csl-rp.github.io/feed.xml</id><title type="html">CSL-RP</title><subtitle>Site para a Comunidade de Software Livre de Ribeirão Preto
+</subtitle><entry><title type="html">O que você precisa saber para instalar e usar uma distribuição GNU/Linux</title><link href="csl-rp.github.io/conceitos/2021/04/12/sabergnulinux/" rel="alternate" type="text/html" title="O que você precisa saber para instalar e usar uma distribuição GNU/Linux" /><published>2021-04-12T14:06:00-03:00</published><updated>2021-04-12T14:06:00-03:00</updated><id>csl-rp.github.io/conceitos/2021/04/12/sabergnulinux</id><content type="html" xml:base="csl-rp.github.io/conceitos/2021/04/12/sabergnulinux/">&lt;p&gt;Neste artigo estarei abordando os principais conceitos necessários para o
 breve entendimento do processo de instalação e utilização de um
 sistema operacional GNU/Linux, com foco em usuários iniciantes que
 nunca tiveram contato com o sistema.&lt;/p&gt;
 
-&lt;h2 id=&quot;sistema-operacional&quot;&gt;Sistema operacional&lt;/h2&gt;
+&lt;h1 id=&quot;sistema-operacional&quot;&gt;Sistema operacional&lt;/h1&gt;
 
 &lt;p&gt;A este ponto, você já deve ter lido sobre &lt;a href=&quot;link-oq-é-gnulinux&quot;&gt;O que é
 GNU/Linux&lt;/a&gt;. Resumidamente, este é um sistema
@@ -23,7 +21,7 @@ iniciar no software livre.&lt;/p&gt;
 &lt;center&gt;&lt;i&gt;Golftheman, &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0&quot;&gt;CC BY 3.0&lt;/a&gt;, via
 Wikimedia Commons&lt;/i&gt;&lt;/center&gt;
 
-&lt;h2 id=&quot;distribuições-gnulinux&quot;&gt;Distribuições GNU/Linux&lt;/h2&gt;
+&lt;h1 id=&quot;distribuições-gnulinux&quot;&gt;Distribuições GNU/Linux&lt;/h1&gt;
 
 &lt;p&gt;Uma distribuição GNU/Linux pode ser entendida como uma “versão” do
 sistema operacional GNU/Linux, sendo construída em cima “do” GNU/Linux
@@ -46,7 +44,7 @@ dada distribuição serve para as outras da mesma família e até mesmo
 outras distribuições sem parentesco, sendo a família Debian de longe a
 mais popular em &lt;em&gt;desktops&lt;/em&gt;.&lt;/p&gt;
 
-&lt;h3 id=&quot;escolhendo-uma-distribuição&quot;&gt;Escolhendo uma distribuição&lt;/h3&gt;
+&lt;h2 id=&quot;escolhendo-uma-distribuição&quot;&gt;Escolhendo uma distribuição&lt;/h2&gt;
 &lt;p&gt;Dentre as distribuições mais voltadas à facilidade do usuário, estão o
 Linux Mint, &lt;a href=&quot;https://pop.system76.com&quot;&gt;Pop!_OS&lt;/a&gt; e o
 &lt;a href=&quot;https://manjaro.org&quot;&gt;Manjaro&lt;/a&gt;. Estas em geral são pensadas em
@@ -65,7 +63,7 @@ como é o caso do próprio Debian e do &lt;a href=&quot;https://archlinux.org&qu
 Linux&lt;/a&gt;, que contem uma das mais completas wikis
 disponíveis dentre as distribuições.&lt;/p&gt;
 
-&lt;h2 id=&quot;ambiente-de-trabalho&quot;&gt;Ambiente de trabalho&lt;/h2&gt;
+&lt;h1 id=&quot;ambiente-de-trabalho&quot;&gt;Ambiente de trabalho&lt;/h1&gt;
 
 &lt;p&gt;O ambiente de trabalho, ou &lt;em&gt;desktop environment&lt;/em&gt; (DE), é a camada
 superior do sistema operacional responsável pela interação direta com
@@ -99,7 +97,7 @@ fluxo de trabalho do sistema, a mesma também é altamente customizável
 pelo usuário, claro que algumas mais e outras menos. Essa liberdade de
 customização só é encontrada em softwares livres.&lt;/p&gt;
 
-&lt;h2 id=&quot;documentação&quot;&gt;Documentação&lt;/h2&gt;
+&lt;h1 id=&quot;documentação&quot;&gt;Documentação&lt;/h1&gt;
 
 &lt;p&gt;Software livre e documentação andam sempre de mãos dadas. Uma
 documentação boa deve ser capaz de introduzir e explicar ao usuário
@@ -117,7 +115,7 @@ softwares dos quais você busca por informação. Isso potencializa sua
 liberdade e independência, pois evita que você apenas siga passos a
 passos e permite que você entenda de fato o que está fazendo.&lt;/p&gt;
 
-&lt;h2 id=&quot;partindo-para-a-instalação&quot;&gt;Partindo para a instalação&lt;/h2&gt;
+&lt;h1 id=&quot;partindo-para-a-instalação&quot;&gt;Partindo para a instalação&lt;/h1&gt;
 
 &lt;p&gt;Existem alguns processos que independem da escolha de distribuição,
 sendo a &lt;a href=&quot;&quot;&gt;criação de uma mídia de inicialização&lt;/a&gt; e o &lt;em&gt;boot&lt;/em&gt;.&lt;/p&gt;
@@ -135,7 +133,7 @@ momento em que você seguirá a documentação da distribuição escolhida,
 onde necessariamente terá um guia de instalação mostrando e explicando
 o “passo a passo” da instalação.&lt;/p&gt;
 
-&lt;h2 id=&quot;o-temido-terminal&quot;&gt;O temido terminal&lt;/h2&gt;
+&lt;h1 id=&quot;o-temido-terminal&quot;&gt;O temido terminal&lt;/h1&gt;
 
 &lt;p&gt;O terminal é algo que pode espantar um pouco usuários iniciantes no
 GNU/Linux por aparentar ser algo difícil. Longe disso, o terminal é
@@ -154,7 +152,7 @@ terminal, como por exemplo, solucionar um problema. Portanto, é muito
 aconselhável que você não tenha medo e tente se ambientar com o uso do
 terminal, com certeza é algo que valerá muito a pena.&lt;/p&gt;
 
-&lt;h2 id=&quot;gerenciamento-de-pacotes&quot;&gt;Gerenciamento de pacotes&lt;/h2&gt;
+&lt;h1 id=&quot;gerenciamento-de-pacotes&quot;&gt;Gerenciamento de pacotes&lt;/h1&gt;
 
 &lt;p&gt;Nos sistemas GNU/Linux, todo software é instalado em forma de
 pacote. Cada pacote denota, por exemplo, um programa em si; mas não
@@ -178,7 +176,7 @@ coisa instalados e tornando o sistema como um todo mais eficiente. Por
 isso, é esperado que inúmeros programas façam uso de uma mesma
 dependência.&lt;/p&gt;
 
-&lt;h3 id=&quot;gerenciador-de-pacotes&quot;&gt;Gerenciador de pacotes&lt;/h3&gt;
+&lt;h2 id=&quot;gerenciador-de-pacotes&quot;&gt;Gerenciador de pacotes&lt;/h2&gt;
 &lt;p&gt;Manusear os pacotes individualmente com certeza não é uma tarefa
 fácil, e por isso, toda distribuição conta com um gerenciador de
 pacotes. O gerenciador de pacotes é responsável por realizar a
@@ -209,7 +207,7 @@ de pacotes depende de qual sua distribuição, sendo que a este ponto,
 você deve consultar a documentação da mesma para aprender de fato a
 utilizar o gerenciador para instalar, remover e atualizar aplicativos.&lt;/p&gt;
 
-&lt;h2 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h2&gt;
+&lt;h1 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h1&gt;
 
 &lt;p&gt;Com os assuntos tratados neste artigo, você deve ser capaz de entender
 superficialmente os conceitos necessários para a utilização de um
@@ -218,7 +216,7 @@ cada tópico em apenas um artigo, a idéia é que isso possa te instigar
 sua curiosidade e trazer certo conforto ao iniciar nesse mundo do
 software livre, te fazendo perceber que usar software livre é muito
 mais simples do que parece ser. Espero ter conseguido cumprir este
-objetivo!&lt;/p&gt;</content><author><name>Carlos Eduardo Gallo Filho</name></author><summary type="html">O que você precisa saber para instalar e usar uma distribuição GNU/Linux</summary></entry><entry><title type="html">O que é software livre</title><link href="csl-rp.github.io/filosofia/2021/04/10/software-livre/" rel="alternate" type="text/html" title="O que é software livre" /><published>2021-04-10T15:56:00-03:00</published><updated>2021-04-10T15:56:00-03:00</updated><id>csl-rp.github.io/filosofia/2021/04/10/software-livre</id><content type="html" xml:base="csl-rp.github.io/filosofia/2021/04/10/software-livre/">&lt;h1 id=&quot;software-livre&quot;&gt;Software Livre&lt;/h1&gt;
+objetivo!&lt;/p&gt;</content><author><name>Carlos Eduardo Gallo Filho</name></author><summary type="html">Neste artigo estarei abordando os principais conceitos necessários para o breve entendimento do processo de instalação e utilização de um sistema operacional GNU/Linux, com foco em usuários iniciantes que nunca tiveram contato com o sistema.</summary></entry><entry><title type="html">O que é software livre</title><link href="csl-rp.github.io/filosofia/2021/04/10/software-livre/" rel="alternate" type="text/html" title="O que é software livre" /><published>2021-04-10T15:56:00-03:00</published><updated>2021-04-10T15:56:00-03:00</updated><id>csl-rp.github.io/filosofia/2021/04/10/software-livre</id><content type="html" xml:base="csl-rp.github.io/filosofia/2021/04/10/software-livre/">&lt;h1 id=&quot;software-livre&quot;&gt;Software Livre&lt;/h1&gt;
 
 &lt;p&gt;Esta página tem como objetivo introduzir ao leitor o conceito de software livre e suas vantagens em relação ao software proprietário. Recomendamos que confira o &lt;a href=&quot;link do FAQ&quot;&gt;FAQ&lt;/a&gt; em caso de dúvidas.&lt;/p&gt;
 
