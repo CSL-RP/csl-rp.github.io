@@ -41,7 +41,7 @@ src="https://csl-rp.github.io/assets/css/img/artigos/source_machine.png">
 </center> <center><i>
 Código fonte é o que os programadores escrevem, e é um formato legível ao ser humano. A partir da fonte é gerado um executável, que é compreensível somente à máquina.*
 </i></center>
-\ 
+<br> 
 
 A liberdade n. 0 é autoexplicativa quanto ao propósito de conceder ao usuário o controle sobre seus dispositivos. A **transparência** promovida pela liberdade n. 1 permite que o usuário entenda o que um programa **de fato faz em seu computador** - um direito com frequência menosprezado - e possibilita que softwares livres sejam constantemente **melhorados**: seja pela adição de novas funcionalidades ou **remoção de características que prejudicam seus usuários**. 
 
@@ -52,7 +52,7 @@ src="https://csl-rp.github.io/assets/css/img/artigos/happy_people2.png">
 </center> <center><i>
 As 4 liberdades permitem que os usuários determinem os usos e o destino de um programa, mesmo aqueles que não são programadores.
 </i></center>
-\ 
+<br> 
 
 Estas liberdades podem parecer relativamente inconsequentes a primeira vista, mas são **fundamentais** para o propósito do movimento de software livre: **que os usuários tenham controle sobre seus dispositivos e sua vida digital**. O movimento de software livre existe em oposição ao **software proprietário**, portanto, para compreender a relevância das nossas pautas, é importante esclarecer o que é que **agimos contra**:
 
@@ -65,7 +65,7 @@ src="https://csl-rp.github.io/assets/css/img/artigos/prop_software.png">
 </center> <center><i>
 Com software proprietário, os usuários estão a mercê dos desenvolvedores, que têm acesso exclusivo aos programas e podem usar o computador do usuário para seus próprios fins.
 </i></center>
-\ 
+<br>
 
 As consequências destas restrições são dramáticas. A menos que o usuário possa ler o código fonte do programa, é **praticamente impossível** saber o que **realmente está sendo executado em seu computador**; some a isto o fato de que o usuário **não pode modificar o programa**, tampouco usufruir de **versões modificadas por outros**, e temos o **ambiente perfeito** para a introdução de funcionalidades que existem para **explorar o usuário**. 
 
@@ -76,7 +76,7 @@ src="https://csl-rp.github.io/assets/css/img/artigos/abuse_for_profit.png">
 </center> <center><i>
 Com software proprietário de fins lucrativos, principalmente os gratuitos, você é o produto.
 </i></center>
-\ 
+<br> 
 
 A abundância de escândalos midiáticos envolvendo software proprietário atesta ao fato de que é **imprudente** ceder os recursos do seu computador cegamente a programas cujo código um grupo restrito de programadores tem acesso. [Esta página](https://www.gnu.org/proprietary/proprietary.pt-br.html) contém exemplos de funcionalidades maliciosas em software proprietário e sua cobertura midiática. A única maneira de **salvaguardar sua privacidade** e evitar ter seu computador cooptado para os interesses escusos de terceiros é através de **software livre**.
 
@@ -103,7 +103,7 @@ src="https://csl-rp.github.io/assets/css/img/artigos/obedece.png">
 </center> <center><i>
 É impossível ter segurança da informação com software proprietário, pois ele sempre priorizará os interesses do seu proprietário sobre os do usuário.
 </i></center>
-\ 
+<br> 
 
 ### Privacidade
 
@@ -116,7 +116,7 @@ src="https://csl-rp.github.io/assets/css/img/artigos/pregnant.png">
 </center> <center><i>
 Uma quantidade impressionante de detalhes sobre você é deduzida através de suas interações na web e com software -- detalhes estes que você nunca escolheu compartilhar.
 </i></center>
-\ 
+<br>
 
 ### Qualidade
 
@@ -135,6 +135,6 @@ src="https://csl-rp.github.io/assets/css/img/artigos/slaves.png">
 </center> <center><i>
 Habitantes da Federação GNU/Linux observam com pena a exploração a que os habitantes da Ditadura do Proprietário são submetidos. Felizmente, a Federação está de portas abertas!
 </i></center>
-\ 
+<br>
 
 Confira o a nossa [Lista de Software Livre](Link para ela), que contém informações sobre vários programas proprietários de uso comum, por que você não deveria usá-los, e como substituí-los por software livre.

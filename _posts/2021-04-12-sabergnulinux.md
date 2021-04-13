@@ -38,8 +38,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Operating_system_placem
 </center> <center><i>Golftheman, <a
 href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via
 Wikimedia Commons</i></center>
-\ 
-
+<br>
 
 # Distribuições GNU/Linux
 
@@ -56,7 +55,7 @@ atendendo a necessidade de cada tipo de usuário.
  packages" por MuseScore; editado sob licensa <a
  href="https://creativecommons.org/licenses/by/2.0">CC BY
  2.0</a></i></center>
- \ 
+<br>
 
 A maioria das distribuições não são construídas do zero, elas se
 baseiam em outras distribuições, como é o caso do [Linux
@@ -104,7 +103,7 @@ visual em si.
 src="https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/distros.png"
 style="width: 60rem"></center> <center><i>Em ordem, KDE, Xfce,
 Gnome e LXQt</i></center>
-\ 
+<br> 
 
 Muitas distribuições contam com certos ambientes de
 trabalho suportados, como o Manjaro, por exemplo, que conta com os
@@ -172,7 +171,7 @@ distribuição.
 <center><img
 src="https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/terminal.png"
 style="width: 20vw"></center>
-\ 
+<br> 
 
 Justamente por ser algo universal e que te dá maior controle sobre o
 sistema, muitas coisas podem ser feitas mais eficientemente em um
@@ -217,7 +216,7 @@ style="width: 30vmax"></center> <center><i>Imagem traduzida de:
 <a>https://itsfoss.com/package-manager</a> sob licensa <a
 href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA
 4.0</a></i></center>
-\ 
+<br> 
 
 Cada distribuição fica encarregada de fornecer os pacotes para os
 usuários instalar, estes estão armazenados em servidores chamados de
