@@ -35,7 +35,7 @@ iniciar no software livre.
 
 <center><img
 src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Operating_system_placement-pt.svg"
-style="width: 64px"></center> <center><i>Golftheman, <a
+style="width: 60vw"></center> <center><i>Golftheman, <a
 href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via
 Wikimedia Commons</i></center>
 \ 
@@ -52,7 +52,7 @@ atendendo a necessidade de cada tipo de usuário.
 
 <center><img
  src="https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/tux.png"
- style="width: 40vw"></center> <center><i>"MuseScore 2.0 Linux
+ style="width: 20vw"></center> <center><i>"MuseScore 2.0 Linux
  packages" por MuseScore; editado sob licensa <a
  href="https://creativecommons.org/licenses/by/2.0">CC BY
  2.0</a></i></center>
