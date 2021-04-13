@@ -16,4 +16,4 @@ hero_logo: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Portanto, o uso de software proprietário pela universidade não só constitui na **perda de oportunidades de aprendizado**, como acarreta em uma relação de **poder** do proprietário do software em relação ao usuário. Este poder é frequentemente **abusado**, e a única maneira de evitar estes abusos é através das **liberdades** e **transparência** que o **software livre** proporciona.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A CSL busca combater este problema através de uma abordagem **de alunos para alunos**; Somos uma iniciativa **criada por alunos** interessados na causa, e nosso principal público alvo é **o corpo estudantil** (não se limitando a ele, entretanto). Para saber mais sobre as atividades que estamos desenvolvendo, confira a página de [Notícias].
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A CSL busca combater este problema através de uma abordagem **de alunos para alunos**; Somos uma iniciativa **criada por alunos** interessados na causa, e nosso principal público alvo é **o corpo estudantil** (não se limitando a ele, entretanto).

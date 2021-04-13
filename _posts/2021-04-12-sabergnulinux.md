@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "O que você precisa saber para instalar e usar uma distribuição GNU/Linux"
+title:  "Primeiros passos em uma distribuição GNU/Linux"
 date:   2021-04-12 17:06:00
 author: Carlos Eduardo Gallo Filho
 categories: conceitos
-description: "Neste artigo estarei abordando os principais conceitos necessários para o breve entendimento do processo de instalação e utilização de um sistema operacional GNU/Linux, com foco em usuários iniciantes que nunca tiveram contato com o sistema." 
+description: "Neste artigo abordo os principais conceitos necessários para o breve entendimento do processo de instalação e utilização de um sistema operacional GNU/Linux, com foco em usuários iniciantes que nunca tiveram contato com o sistema." 
 published: true
 canonical_url: https://csl-rp.github.io/conceitos/2021/04/12/sabergnulinux.html
 hero_link: false
@@ -35,9 +35,10 @@ iniciar no software livre.
 
 <center><img
 src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Operating_system_placement-pt.svg"
-style="width: 25vw"></center> <center><i>Golftheman, <a
+style="width: 64px"></center> <center><i>Golftheman, <a
 href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via
 Wikimedia Commons</i></center>
+\ 
 
 
 # Distribuições GNU/Linux
@@ -55,6 +56,7 @@ atendendo a necessidade de cada tipo de usuário.
  packages" por MuseScore; editado sob licensa <a
  href="https://creativecommons.org/licenses/by/2.0">CC BY
  2.0</a></i></center>
+ \ 
 
 A maioria das distribuições não são construídas do zero, elas se
 baseiam em outras distribuições, como é o caso do [Linux
@@ -67,7 +69,7 @@ mais popular em _desktops_.
 
 ## Escolhendo uma distribuição
 Dentre as distribuições mais voltadas à facilidade do usuário, estão o
-Linux Mint, [Pop!_OS](https://pop.system76.com) e o
+Linux Mint, [Pop! OS](https://pop.system76.com) e o
 [Manjaro](https://manjaro.org). Estas em geral são pensadas em
 funcionarem com o mínimo de esforço do usuário, não necessitando de
 configuração excessiva e possibilitando uma instalação fácil, contando
@@ -102,6 +104,7 @@ visual em si.
 src="https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/distros.png"
 style="width: 75vw"></center> <center><i>Em ordem, KDE, Xfce,
 Gnome e LXQt</i></center>
+\ 
 
 Muitas distribuições contam com certos ambientes de
 trabalho suportados, como o Manjaro, por exemplo, que conta com os
@@ -169,6 +172,7 @@ distribuição.
 <center><img
 src="https://csl-rp.github.io/assets/css/img/artigos/sabergnulinux/terminal.png"
 style="width: 40vw"></center>
+\ 
 
 Justamente por ser algo universal e que te dá maior controle sobre o
 sistema, muitas coisas podem ser feitas mais eficientemente em um
@@ -213,6 +217,7 @@ style="width: 60vw"></center> <center><i>Imagem traduzida de:
 <a>https://itsfoss.com/package-manager</a> sob licensa <a
 href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA
 4.0</a></i></center>
+\ 
 
 Cada distribuição fica encarregada de fornecer os pacotes para os
 usuários instalar, estes estão armazenados em servidores chamados de
