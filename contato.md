@@ -7,4 +7,4 @@ show_sidebar: false
 
 # Link para o grupo do telegram:
 
-[Link](https://t.me/joinchat/TwVk_mq-ehQ_t9Fv)
+[https://t.me/joinchat/TwVk_mq-ehQ_t9Fv](https://t.me/joinchat/TwVk_mq-ehQ_t9Fv)
