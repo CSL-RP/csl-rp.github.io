@@ -184,14 +184,14 @@ terminal, com certeza é algo que valerá muito a pena.
 # Gerenciamento de pacotes
 
 Nos sistemas GNU/Linux, todo software é instalado em forma de
-pacote. Cada pacote denota, por exemplo, um programa em si; mas não
-necessariamente, pois a maioria dos pacotes são **dependências**. As
-dependências são softwares que são instalados para possibilitar o
-funcionamento de um terceiro, isso seguindo a [filosofia Unix](), sistema
-operacional predecessor ao GNU/Linux, os softwares devem ser simples,
-específicos e eficientes, sendo que, sempre que um software precise de
-uma função que já seja realizada por um terceiro, este deve fazer uso
-do mesmo ao invés de realizar a mesma funcionalidade.
+pacote. Cada pacote denota, por exemplo, um programa em si, ue pode
+ser utilizado pelo usuário, pelo sistema ou por outros
+programas. Muitas vezes um programa depende de outros para funcionar,
+e estes são chamados de dependências.  Seguindo a [filosofia Unix](),
+sistema operacional predecessor ao GNU/Linux, os softwares devem ser
+simples, específicos e eficientes, sendo que, sempre que um software
+precise de uma função que já seja realizada por um terceiro, este deve
+fazer uso do mesmo ao invés de realizar a mesma funcionalidades.
 
 Para exemplificar, imagine que um software precise realizar a
 visualização de uma imagem. Existe para isso, uma biblioteca que
