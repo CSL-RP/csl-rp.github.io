@@ -8,7 +8,7 @@ author: Carlos Eduardo Gallo Filho
 categories: conceitos
 description: "Neste artigo abordo os principais conceitos necessários para o breve entendimento do processo de instalação e utilização de um sistema operacional GNU/Linux, com foco em usuários iniciantes que nunca tiveram contato com o sistema." 
 published: true
-canonical_url: https://csl-rp.github.io/conceitos/2021/04/12/sabergnulinux.html
+canonical_url: https://csl-rp.github.io/conceitos/2021/04/12/saber-gnu-linux.html
 hero_link: false
 hero_image: false
 image: false
