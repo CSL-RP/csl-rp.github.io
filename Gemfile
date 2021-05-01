@@ -11,3 +11,6 @@ group :jekyll_plugins do
     gem "jekyll-seo-tag"
 end
 
+gem "webrick"
+
+gem "rexml", "~> 3.2"

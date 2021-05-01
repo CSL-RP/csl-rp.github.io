@@ -19,18 +19,15 @@ hero_title: true
 ---
 
 # Introdução
-<!--{{{-->
 Após conhecer o conceito de Software Livre e ter ao menos certa noção de sua imporância, a pergunta natural a se fazer é "O que posso fazer a respeito disso?". O primeiro passo é libertar sua própria computação pessoal utilizando software livre ao invés de suas contrapartidas proprietárias, que muitas vezes são mais usuais. 
 
 Escrevemos este artigo para servir de referência em sua transição para software livre. Navegue pelo índice acima para encontrar software livre para suas aplicações específicas. Estas recomendações são voltadas a usuários de Windows (a propósito, [não perca tempo e experimente logo uma distribuição GNU/Linux](https://csl-rp.github.io/conceitos/2021/04/12/saber-gnu-linux/)) e GNU/Linux iniciantes.
 
 Peço que tenha em mente que não tivemos a pretensão de sermos imparciais em nossas recomendações. Evidentemente, dêmos preferência aos programas que nós mesmos usamos ou que julgamos serem as melhores alternativas para iniciantes. Além disso, alguns programas "não recomendados" _são de fato livres_ com base em suas licenças -- neste caso, nossa recomendação contra seu uso parte do histórico e/ou modelo de negócios de suas distribuidoras (ex. Microsoft, Google, IBM, Oracle...), ou por incompatibilidade com GNU/Linux, ou por simples falta de funcionalidades. Escrevemos nomes de software proprietário em vermelho para facilitar identificação neste artigo. Pedimos ainda que envie os erros e sugestões adição e/ou modificação para o email csl@disroot.org.
-<!--}}}-->
 
 # Edição de texto
 
 ## Texto simples
-<!--{{{-->
 <center><img
  	src="https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/texto-simples.png"
 	style="width: 40vw">
@@ -42,7 +39,6 @@ Por _texto simples_ entenda editores voltados à manipulação de arquivos de te
 As aventureiras podem ainda experimentar o **Vim** ou o **Emacs**, nossos editores favoritos. Estes são os editores mais populares entre entusiastas de software livre; eles são completamente orientados a teclado e permitem uma produtividade, conforto e extensibilidade incomparáveis entre editores simples ou mesmo IDEs, mas a custo de uma íngrime curva de aprendizado. Recomendamos pesquisar mais a respeito se esta breve descrição atiçou sua curiosidade.
 
 Por fim, o **Atom** é um notório editor/IDE muito popular entre programadores, principalmente por fornecer extensibilidade sem sacrificar facilidade de uso. Hesitamos recomendá-lo por ser um editor bem mais pesado que as alternativas, o que o torna inadequado a usuários de computadores mais antigos. Mas vale a pena testar, em particular para os programadores.
-<!--}}}-->
 
 ## IDEs
 
@@ -55,7 +51,6 @@ Por fim, o **Atom** é um notório editor/IDE muito popular entre programadores,
 # Documentos
 
 ## Suítes Office
-<!--{{{-->
 <center><img
  	src="https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/office.png"
 	style="width: 40vw">
@@ -69,10 +64,8 @@ Os programas das Suítes [**LibreOffice**](www.libreoffice.org/) e [**OnlyOffice
 Alguns leitores podem se perguntar da razão pelo qual a Suíte Office [**OpenOffice**](www.openoffice.org/) não foi mencionada, a justificativa simples passa pelo fato desse projeto não oferecer suporte a formatos proprietários como .docx, .xlsx e .pptx, não permitir uso associado a uma nuvem, e de que, na pratica, o projeto **LibreOffice** se trata de um projeto sucessor deste.
 
 _Contribuído por Luis Guilherme Coelho_
-<!--}}}-->
 
 ## Visualizadores de PDF
-<!--{{{-->
 <center><img
  	src="https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/pdfs.png"
 	style="width: 40vw">
@@ -84,12 +77,10 @@ _Contribuído por Luis Guilherme Coelho_
 o **Okular** e o **Evince** disponibilizam tudo que se poderia esperar de um visualizador de PDFs em uma interface simples e leve. O **Okular** em particular também tem suporte para o formato EPub e para edição básica de PDFs, o que o torna nossa principal recomendação para usuários de Windows. Usuários de GNU/Linux provavelmente já receberam sua distribuição com um bom leitor de PDFs específico de seu _Desktop Environment_ pré-instalado, caso contrário podem usar qualquer uma das recomendações acima. Você também pode simplesmente usar seu navegador Web (confira as nossas recomendações) como leitor padrão de PDFs.
 
 Documentos em formato PDF geralmente não são feitos para serem editados, mas editores especializados para todas as plataformas estão disponíveis. Experimente o **Libreoffice Draw**, **Scribus**, ou mesmo um editor de imagens no geral, como o **Gimp**.
-<!--}}}-->
 
 # Comunicação
 
 ## Mensageiros Instantâneos
-<!--{{{-->
 <center><img
  	src="https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/instant-messengers.png"
 	style="width: 40vw">
@@ -104,12 +95,10 @@ A maneira mais acessível e fácil de se comunicar, no momento, vem sendo atrav�
 Ainda assim, as alternativas realmente livres são também aquelas que são descentralizadas ou federadas, ou seja, que não estão associadas a um único servidor, funcionando em um grupo de servidores operando em um padrão de comunicação, sendo estes também livres. Os protocolos de comunicação mais utilizados que permitem esse tipo de aplicação são o [**XMPP**](https://xmpp.org/) e a [**\[matrix\]**](https://matrix.org/). Para utilizar a estes meios de comunicação, você deve escolher dentre diversos aplitivos disponíveis que operam nestas redes. É importante ressaltar que independente da aplicação que escolher, você conseguirá se comunicar com qualquer pessoa nesta rede, não necessitando que a outra pessoa utilize a mesma aplicação que você. Você pode consultar [alguns dos *clients* \[matrix\]](https://matrix.org/clients/), podendo escolher tanto as versões para *smartphones* quanto para *desktop*, havendo até mesmo maneiras de se utilizar pela web em seu navegador. [Aqui](https://xmpp.org/software/clients.html) se encontram alguns *clients* que operam no protocolo XMPP.
 
 _Contribuído por Carlos Eduardo Gallo Filho_
-<!--}}}-->
 
 # Internet
 
 ## Navegadores Web
-<!--{{{-->
 <center><img
  	src="https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/navegadores.png"
 	style="width: 40vw">
@@ -123,12 +112,10 @@ Hoje em dia a Web é o principal vetor de software proprietário e _spyware_ no 
 Outro navegador livre que se destaca no quesito de privacidade é o **Brave**. Este é por padrão superior ao **Firefox** neste aspecto, e conta ainda com a funcionalidade [Basic Attention Tokens](https://basicattentiontoken.org/), uma maneira ética de suportar os criadores de conteúdo na Web sem rastreadores e anúncios indesejados. O **Brave** só não é nossa recomendação principal por utilizar a _engine chromium_, o que acaba por favorecer a hegemonia da Google em todos os aspectos da Web -- o **Firefox** é o único navegador atualmente relevante que utiliza uma _engine_ independente. Isso também torna o **Brave** mais pesado e lento em computadores antigos, mas este aspecto parece variar de usuário para usuário.
 
 Por fim, vale destacar que, qualquer que seja o navegador que você utilize em seu computador, é necessário _também utilizá-lo em seu smartphone_. Não adianta nada usar algo que bloqueie rastreadores no PC e continuar usando o _spyware_ da Google ou Apple no celular!
-<!--}}}-->
 
 # Multimídia
 
 ## Edição de imagens
-<!--{{{-->
 <center><img
  	src="https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/imagens.png"
 	style="width: 40vw">
@@ -141,14 +128,14 @@ Por fim, vale destacar que, qualquer que seja o navegador que você utilize em s
 
 Reconhecemos que o **GIMP** em particular possui uma interface e funcionalidades pouco familiares a usuários veteranos de Photoshop, ou mesmo àqueles que só precisem realizar edições mais simples. Para tal, recomendamos o **Pinta**, um software com interface semelhante à do MS Paint mas também cheio de funcionalidades. Para criação de diagramas e edições mais simples de imagens vetoriais, o **Libreoffice Draw** é um bom quebra-galho. Desenhistas e fotógrafos podem conferir as seções dedicadas nesta lista para estas atividades.
 
-<!--}}}-->
 
 # Computação científica
 
 ## Visualização e análise de dados
 
 <center><img
- 	src="https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/data-analysis.png"
+ 	src="https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/office.png"
+	src="/home/eduardo/Documents/CSL/artigos/images/data-analysis.png"
 	style="width: 40vw">
 	</center> 
 <br> 
