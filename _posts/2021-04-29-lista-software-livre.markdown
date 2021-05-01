@@ -2,7 +2,7 @@
 layout: page
 show_sidebar: false
 hide_footer: true
-toc: true
+menubar_toc: true
 toc_title: Índice
 title:  "Lista de aplicações e recomendações de software livre"
 date:   2021-04-29 16:00:00
@@ -18,16 +18,16 @@ comments: false
 hero_title: true
 ---
 
-# Introdução
+## Introdução
 Após conhecer o conceito de Software Livre e ter ao menos certa noção de sua imporância, a pergunta natural a se fazer é "O que posso fazer a respeito disso?". O primeiro passo é libertar sua própria computação pessoal utilizando software livre ao invés de suas contrapartidas proprietárias, que muitas vezes são mais usuais. 
 
-Escrevemos este artigo para servir de referência em sua transição para software livre. Navegue pelo índice acima para encontrar software livre para suas aplicações específicas. Estas recomendações são voltadas a usuários de Windows (a propósito, [não perca tempo e experimente logo uma distribuição GNU/Linux](https://csl-rp.github.io/conceitos/2021/04/12/saber-gnu-linux/)) e GNU/Linux iniciantes.
+Escrevemos este artigo para servir de referência em sua transição para software livre. Navegue pelo índice ao lado para encontrar software livre para suas aplicações específicas. Estas recomendações são voltadas a usuários de Windows (a propósito, [não perca tempo e experimente logo uma distribuição GNU/Linux](https://csl-rp.github.io/conceitos/2021/04/12/saber-gnu-linux/)) e GNU/Linux iniciantes.
 
 Peço que tenha em mente que não tivemos a pretensão de sermos imparciais em nossas recomendações. Evidentemente, dêmos preferência aos programas que nós mesmos usamos ou que julgamos serem as melhores alternativas para iniciantes. Além disso, alguns programas "não recomendados" _são de fato livres_ com base em suas licenças -- neste caso, nossa recomendação contra seu uso parte do histórico e/ou modelo de negócios de suas distribuidoras (ex. Microsoft, Google, IBM, Oracle...), ou por incompatibilidade com GNU/Linux, ou por simples falta de funcionalidades. Escrevemos nomes de software proprietário em vermelho para facilitar identificação neste artigo. Pedimos ainda que envie os erros e sugestões adição e/ou modificação para o email csl@disroot.org.
 
-# Edição de texto
+## Edição de texto
 
-## Texto simples
+### Texto simples
 <center><img
  	src="https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/texto-simples.png"
 	style="width: 40vw">
@@ -40,7 +40,7 @@ As aventureiras podem ainda experimentar o **Vim** ou o **Emacs**, nossos editor
 
 Por fim, o **Atom** é um notório editor/IDE muito popular entre programadores, principalmente por fornecer extensibilidade sem sacrificar facilidade de uso. Hesitamos recomendá-lo por ser um editor bem mais pesado que as alternativas, o que o torna inadequado a usuários de computadores mais antigos. Mas vale a pena testar, em particular para os programadores.
 
-## IDEs
+### IDEs
 
 <center><img
  	src="https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/ides.png"
@@ -48,9 +48,9 @@ Por fim, o **Atom** é um notório editor/IDE muito popular entre programadores,
 	</center> 
 <br> 
 
-# Documentos
+## Documentos
 
-## Suítes Office
+### Suítes Office
 <center><img
  	src="https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/office.png"
 	style="width: 40vw">
@@ -65,7 +65,7 @@ Alguns leitores podem se perguntar da razão pelo qual a Suíte Office [**OpenOf
 
 _Contribuído por Luis Guilherme Coelho_
 
-## Visualizadores de PDF
+### Visualizadores de PDF
 <center><img
  	src="https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/pdfs.png"
 	style="width: 40vw">
@@ -74,13 +74,13 @@ _Contribuído por Luis Guilherme Coelho_
 
 É um verdadeiro crime como o Acrobat da Adobe se tornou sinônimo de visualizador de PDFs entre usuários de Windows, e o Foxit Reader se tornou sua principal alternativa. Com programas como estes, uma atividade tão trivial quanto ler um PDF se torna uma tarefa lenta e onerosa. Felizmente, usuários de GNU/Linux não se submetem a isso devido à grande variedade de visualizadores simples e leves à sua disposição, dentre os quais os principais também estão disponíveis para Windows.
 
-o **Okular** e o **Evince** disponibilizam tudo que se poderia esperar de um visualizador de PDFs em uma interface simples e leve. O **Okular** em particular também tem suporte para o formato EPub e para edição básica de PDFs, o que o torna nossa principal recomendação para usuários de Windows. Usuários de GNU/Linux provavelmente já receberam sua distribuição com um bom leitor de PDFs específico de seu _Desktop Environment_ pré-instalado, caso contrário podem usar qualquer uma das recomendações acima. Você também pode simplesmente usar seu navegador Web (confira as nossas recomendações) como leitor padrão de PDFs.
+O **Okular** e o **Evince** disponibilizam tudo que se poderia esperar de um visualizador de PDFs em uma interface simples e leve. O **Okular** em particular também tem suporte para o formato EPub e para edição básica de PDFs, o que o torna nossa principal recomendação para usuários de Windows. Usuários de GNU/Linux provavelmente já receberam sua distribuição com um bom leitor de PDFs específico de seu _Desktop Environment_ pré-instalado, caso contrário podem usar qualquer uma das recomendações acima. Você também pode simplesmente usar seu navegador Web (confira as nossas recomendações) como leitor padrão de PDFs.
 
 Documentos em formato PDF geralmente não são feitos para serem editados, mas editores especializados para todas as plataformas estão disponíveis. Experimente o **Libreoffice Draw**, **Scribus**, ou mesmo um editor de imagens no geral, como o **Gimp**.
 
-# Comunicação
+## Comunicação
 
-## Mensageiros Instantâneos
+### Mensageiros Instantâneos
 <center><img
  	src="https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/instant-messengers.png"
 	style="width: 40vw">
@@ -96,9 +96,9 @@ Ainda assim, as alternativas realmente livres são também aquelas que são desc
 
 _Contribuído por Carlos Eduardo Gallo Filho_
 
-# Internet
+## Internet
 
-## Navegadores Web
+### Navegadores Web
 <center><img
  	src="https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/navegadores.png"
 	style="width: 40vw">
@@ -113,9 +113,9 @@ Outro navegador livre que se destaca no quesito de privacidade é o **Brave**. E
 
 Por fim, vale destacar que, qualquer que seja o navegador que você utilize em seu computador, é necessário _também utilizá-lo em seu smartphone_. Não adianta nada usar algo que bloqueie rastreadores no PC e continuar usando o _spyware_ da Google ou Apple no celular!
 
-# Multimídia
+## Multimídia
 
-## Edição de imagens
+### Edição de imagens
 <center><img
  	src="https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/imagens.png"
 	style="width: 40vw">
@@ -129,9 +129,9 @@ Por fim, vale destacar que, qualquer que seja o navegador que você utilize em s
 Reconhecemos que o **GIMP** em particular possui uma interface e funcionalidades pouco familiares a usuários veteranos de Photoshop, ou mesmo àqueles que só precisem realizar edições mais simples. Para tal, recomendamos o **Pinta**, um software com interface semelhante à do MS Paint mas também cheio de funcionalidades. Para criação de diagramas e edições mais simples de imagens vetoriais, o **Libreoffice Draw** é um bom quebra-galho. Desenhistas e fotógrafos podem conferir as seções dedicadas nesta lista para estas atividades.
 
 
-# Computação científica
+## Computação científica
 
-## Visualização e análise de dados
+### Visualização e análise de dados
 
 <center><img
  	src="https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/data-analysis.png"

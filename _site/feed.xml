@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="csl-rp.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="csl-rp.github.io/" rel="alternate" type="text/html" /><updated>2021-04-30T21:31:06-03:00</updated><id>csl-rp.github.io/feed.xml</id><title type="html">CSL-RP</title><subtitle>Site para a Comunidade de Software Livre de Ribeirão Preto
-</subtitle><entry><title type="html">Lista de aplicações e recomendações de software livre</title><link href="csl-rp.github.io/ajuda/2021/04/29/lista-software-livre/" rel="alternate" type="text/html" title="Lista de aplicações e recomendações de software livre" /><published>2021-04-29T13:00:00-03:00</published><updated>2021-04-29T13:00:00-03:00</updated><id>csl-rp.github.io/ajuda/2021/04/29/lista-software-livre</id><content type="html" xml:base="csl-rp.github.io/ajuda/2021/04/29/lista-software-livre/">&lt;h1 id=&quot;introdução&quot;&gt;Introdução&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="csl-rp.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="csl-rp.github.io/" rel="alternate" type="text/html" /><updated>2021-04-30T21:42:04-03:00</updated><id>csl-rp.github.io/feed.xml</id><title type="html">CSL-RP</title><subtitle>Site para a Comunidade de Software Livre de Ribeirão Preto
+</subtitle><entry><title type="html">Lista de aplicações e recomendações de software livre</title><link href="csl-rp.github.io/ajuda/2021/04/29/lista-software-livre/" rel="alternate" type="text/html" title="Lista de aplicações e recomendações de software livre" /><published>2021-04-29T13:00:00-03:00</published><updated>2021-04-29T13:00:00-03:00</updated><id>csl-rp.github.io/ajuda/2021/04/29/lista-software-livre</id><content type="html" xml:base="csl-rp.github.io/ajuda/2021/04/29/lista-software-livre/">&lt;h2 id=&quot;introdução&quot;&gt;Introdução&lt;/h2&gt;
 &lt;p&gt;Após conhecer o conceito de Software Livre e ter ao menos certa noção de sua imporância, a pergunta natural a se fazer é “O que posso fazer a respeito disso?”. O primeiro passo é libertar sua própria computação pessoal utilizando software livre ao invés de suas contrapartidas proprietárias, que muitas vezes são mais usuais.&lt;/p&gt;
 
-&lt;p&gt;Escrevemos este artigo para servir de referência em sua transição para software livre. Navegue pelo índice acima para encontrar software livre para suas aplicações específicas. Estas recomendações são voltadas a usuários de Windows (a propósito, &lt;a href=&quot;https://csl-rp.github.io/conceitos/2021/04/12/saber-gnu-linux/&quot;&gt;não perca tempo e experimente logo uma distribuição GNU/Linux&lt;/a&gt;) e GNU/Linux iniciantes.&lt;/p&gt;
+&lt;p&gt;Escrevemos este artigo para servir de referência em sua transição para software livre. Navegue pelo índice ao lado para encontrar software livre para suas aplicações específicas. Estas recomendações são voltadas a usuários de Windows (a propósito, &lt;a href=&quot;https://csl-rp.github.io/conceitos/2021/04/12/saber-gnu-linux/&quot;&gt;não perca tempo e experimente logo uma distribuição GNU/Linux&lt;/a&gt;) e GNU/Linux iniciantes.&lt;/p&gt;
 
 &lt;p&gt;Peço que tenha em mente que não tivemos a pretensão de sermos imparciais em nossas recomendações. Evidentemente, dêmos preferência aos programas que nós mesmos usamos ou que julgamos serem as melhores alternativas para iniciantes. Além disso, alguns programas “não recomendados” &lt;em&gt;são de fato livres&lt;/em&gt; com base em suas licenças – neste caso, nossa recomendação contra seu uso parte do histórico e/ou modelo de negócios de suas distribuidoras (ex. Microsoft, Google, IBM, Oracle…), ou por incompatibilidade com GNU/Linux, ou por simples falta de funcionalidades. Escrevemos nomes de software proprietário em vermelho para facilitar identificação neste artigo. Pedimos ainda que envie os erros e sugestões adição e/ou modificação para o email csl@disroot.org.&lt;/p&gt;
 
-&lt;h1 id=&quot;edição-de-texto&quot;&gt;Edição de texto&lt;/h1&gt;
+&lt;h2 id=&quot;edição-de-texto&quot;&gt;Edição de texto&lt;/h2&gt;
 
-&lt;h2 id=&quot;texto-simples&quot;&gt;Texto simples&lt;/h2&gt;
+&lt;h3 id=&quot;texto-simples&quot;&gt;Texto simples&lt;/h3&gt;
 &lt;center&gt;&lt;img src=&quot;https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/texto-simples.png&quot; style=&quot;width: 40vw&quot; /&gt;
 	&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -19,15 +19,15 @@
 
 &lt;p&gt;Por fim, o &lt;strong&gt;Atom&lt;/strong&gt; é um notório editor/IDE muito popular entre programadores, principalmente por fornecer extensibilidade sem sacrificar facilidade de uso. Hesitamos recomendá-lo por ser um editor bem mais pesado que as alternativas, o que o torna inadequado a usuários de computadores mais antigos. Mas vale a pena testar, em particular para os programadores.&lt;/p&gt;
 
-&lt;h2 id=&quot;ides&quot;&gt;IDEs&lt;/h2&gt;
+&lt;h3 id=&quot;ides&quot;&gt;IDEs&lt;/h3&gt;
 
 &lt;center&gt;&lt;img src=&quot;https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/ides.png&quot; style=&quot;width: 40vw&quot; /&gt;
 	&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;documentos&quot;&gt;Documentos&lt;/h1&gt;
+&lt;h2 id=&quot;documentos&quot;&gt;Documentos&lt;/h2&gt;
 
-&lt;h2 id=&quot;suítes-office&quot;&gt;Suítes Office&lt;/h2&gt;
+&lt;h3 id=&quot;suítes-office&quot;&gt;Suítes Office&lt;/h3&gt;
 &lt;center&gt;&lt;img src=&quot;https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/office.png&quot; style=&quot;width: 40vw&quot; /&gt;
 	&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -40,20 +40,20 @@
 
 &lt;p&gt;&lt;em&gt;Contribuído por Luis Guilherme Coelho&lt;/em&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;visualizadores-de-pdf&quot;&gt;Visualizadores de PDF&lt;/h2&gt;
+&lt;h3 id=&quot;visualizadores-de-pdf&quot;&gt;Visualizadores de PDF&lt;/h3&gt;
 &lt;center&gt;&lt;img src=&quot;https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/pdfs.png&quot; style=&quot;width: 40vw&quot; /&gt;
 	&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;É um verdadeiro crime como o Acrobat da Adobe se tornou sinônimo de visualizador de PDFs entre usuários de Windows, e o Foxit Reader se tornou sua principal alternativa. Com programas como estes, uma atividade tão trivial quanto ler um PDF se torna uma tarefa lenta e onerosa. Felizmente, usuários de GNU/Linux não se submetem a isso devido à grande variedade de visualizadores simples e leves à sua disposição, dentre os quais os principais também estão disponíveis para Windows.&lt;/p&gt;
 
-&lt;p&gt;o &lt;strong&gt;Okular&lt;/strong&gt; e o &lt;strong&gt;Evince&lt;/strong&gt; disponibilizam tudo que se poderia esperar de um visualizador de PDFs em uma interface simples e leve. O &lt;strong&gt;Okular&lt;/strong&gt; em particular também tem suporte para o formato EPub e para edição básica de PDFs, o que o torna nossa principal recomendação para usuários de Windows. Usuários de GNU/Linux provavelmente já receberam sua distribuição com um bom leitor de PDFs específico de seu &lt;em&gt;Desktop Environment&lt;/em&gt; pré-instalado, caso contrário podem usar qualquer uma das recomendações acima. Você também pode simplesmente usar seu navegador Web (confira as nossas recomendações) como leitor padrão de PDFs.&lt;/p&gt;
+&lt;p&gt;O &lt;strong&gt;Okular&lt;/strong&gt; e o &lt;strong&gt;Evince&lt;/strong&gt; disponibilizam tudo que se poderia esperar de um visualizador de PDFs em uma interface simples e leve. O &lt;strong&gt;Okular&lt;/strong&gt; em particular também tem suporte para o formato EPub e para edição básica de PDFs, o que o torna nossa principal recomendação para usuários de Windows. Usuários de GNU/Linux provavelmente já receberam sua distribuição com um bom leitor de PDFs específico de seu &lt;em&gt;Desktop Environment&lt;/em&gt; pré-instalado, caso contrário podem usar qualquer uma das recomendações acima. Você também pode simplesmente usar seu navegador Web (confira as nossas recomendações) como leitor padrão de PDFs.&lt;/p&gt;
 
 &lt;p&gt;Documentos em formato PDF geralmente não são feitos para serem editados, mas editores especializados para todas as plataformas estão disponíveis. Experimente o &lt;strong&gt;Libreoffice Draw&lt;/strong&gt;, &lt;strong&gt;Scribus&lt;/strong&gt;, ou mesmo um editor de imagens no geral, como o &lt;strong&gt;Gimp&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;h1 id=&quot;comunicação&quot;&gt;Comunicação&lt;/h1&gt;
+&lt;h2 id=&quot;comunicação&quot;&gt;Comunicação&lt;/h2&gt;
 
-&lt;h2 id=&quot;mensageiros-instantâneos&quot;&gt;Mensageiros Instantâneos&lt;/h2&gt;
+&lt;h3 id=&quot;mensageiros-instantâneos&quot;&gt;Mensageiros Instantâneos&lt;/h3&gt;
 &lt;center&gt;&lt;img src=&quot;https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/instant-messengers.png&quot; style=&quot;width: 40vw&quot; /&gt;
 	&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -67,9 +67,9 @@ padrão &lt;a href=&quot;https://en.wikipedia.org/wiki/De_facto&quot;&gt;de fact
 
 &lt;p&gt;&lt;em&gt;Contribuído por Carlos Eduardo Gallo Filho&lt;/em&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;internet&quot;&gt;Internet&lt;/h1&gt;
+&lt;h2 id=&quot;internet&quot;&gt;Internet&lt;/h2&gt;
 
-&lt;h2 id=&quot;navegadores-web&quot;&gt;Navegadores Web&lt;/h2&gt;
+&lt;h3 id=&quot;navegadores-web&quot;&gt;Navegadores Web&lt;/h3&gt;
 &lt;center&gt;&lt;img src=&quot;https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/navegadores.png&quot; style=&quot;width: 40vw&quot; /&gt;
 	&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -82,9 +82,9 @@ padrão &lt;a href=&quot;https://en.wikipedia.org/wiki/De_facto&quot;&gt;de fact
 
 &lt;p&gt;Por fim, vale destacar que, qualquer que seja o navegador que você utilize em seu computador, é necessário &lt;em&gt;também utilizá-lo em seu smartphone&lt;/em&gt;. Não adianta nada usar algo que bloqueie rastreadores no PC e continuar usando o &lt;em&gt;spyware&lt;/em&gt; da Google ou Apple no celular!&lt;/p&gt;
 
-&lt;h1 id=&quot;multimídia&quot;&gt;Multimídia&lt;/h1&gt;
+&lt;h2 id=&quot;multimídia&quot;&gt;Multimídia&lt;/h2&gt;
 
-&lt;h2 id=&quot;edição-de-imagens&quot;&gt;Edição de imagens&lt;/h2&gt;
+&lt;h3 id=&quot;edição-de-imagens&quot;&gt;Edição de imagens&lt;/h3&gt;
 &lt;center&gt;&lt;img src=&quot;https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/imagens.png&quot; style=&quot;width: 40vw&quot; /&gt;
 	&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -95,9 +95,9 @@ padrão &lt;a href=&quot;https://en.wikipedia.org/wiki/De_facto&quot;&gt;de fact
 
 &lt;p&gt;Reconhecemos que o &lt;strong&gt;GIMP&lt;/strong&gt; em particular possui uma interface e funcionalidades pouco familiares a usuários veteranos de Photoshop, ou mesmo àqueles que só precisem realizar edições mais simples. Para tal, recomendamos o &lt;strong&gt;Pinta&lt;/strong&gt;, um software com interface semelhante à do MS Paint mas também cheio de funcionalidades. Para criação de diagramas e edições mais simples de imagens vetoriais, o &lt;strong&gt;Libreoffice Draw&lt;/strong&gt; é um bom quebra-galho. Desenhistas e fotógrafos podem conferir as seções dedicadas nesta lista para estas atividades.&lt;/p&gt;
 
-&lt;h1 id=&quot;computação-científica&quot;&gt;Computação científica&lt;/h1&gt;
+&lt;h2 id=&quot;computação-científica&quot;&gt;Computação científica&lt;/h2&gt;
 
-&lt;h2 id=&quot;visualização-e-análise-de-dados&quot;&gt;Visualização e análise de dados&lt;/h2&gt;
+&lt;h3 id=&quot;visualização-e-análise-de-dados&quot;&gt;Visualização e análise de dados&lt;/h3&gt;
 
 &lt;center&gt;&lt;img src=&quot;https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/data-analysis.png&quot; style=&quot;width: 40vw&quot; /&gt;
 	&lt;/center&gt;
