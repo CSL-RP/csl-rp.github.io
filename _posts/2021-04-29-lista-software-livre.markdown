@@ -134,8 +134,7 @@ Reconhecemos que o **GIMP** em particular possui uma interface e funcionalidades
 ## Visualização e análise de dados
 
 <center><img
- 	src="https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/office.png"
-	src="/home/eduardo/Documents/CSL/artigos/images/data-analysis.png"
+ 	src="https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/data-analysis.png"
 	style="width: 40vw">
 	</center> 
 <br> 
