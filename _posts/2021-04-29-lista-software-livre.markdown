@@ -1,7 +1,7 @@
 ---
 layout: page
 hide_footer: true
-menubar_toc: true
+toc: true
 toc_title: Índice
 title:  "Lista de aplicações e recomendações de software livre"
 date:   2021-04-29 16:00:00
@@ -20,7 +20,7 @@ hero_title: true
 ## Introdução
 Após conhecer o conceito de Software Livre e ter ao menos certa noção de sua imporância, a pergunta natural a se fazer é "O que posso fazer a respeito disso?". O primeiro passo é libertar sua própria computação pessoal utilizando software livre ao invés de suas contrapartidas proprietárias, que muitas vezes são mais usuais. 
 
-Escrevemos este artigo para servir de referência em sua transição para software livre. Navegue pelo índice ao lado para encontrar software livre para suas aplicações específicas. Estas recomendações são voltadas a usuários de Windows (a propósito, [não perca tempo e experimente logo uma distribuição GNU/Linux](https://csl-rp.github.io/conceitos/2021/04/12/saber-gnu-linux/)) e GNU/Linux iniciantes.
+Escrevemos este artigo para servir de referência em sua transição para software livre. Navegue pelo índice acima para encontrar software livre para suas aplicações específicas. Estas recomendações são voltadas a usuários de Windows (a propósito, [não perca tempo e experimente logo uma distribuição GNU/Linux](https://csl-rp.github.io/conceitos/2021/04/12/saber-gnu-linux/)) e GNU/Linux iniciantes.
 
 Peço que tenha em mente que não tivemos a pretensão de sermos imparciais em nossas recomendações. Evidentemente, dêmos preferência aos programas que nós mesmos usamos ou que julgamos serem as melhores alternativas para iniciantes. Além disso, alguns programas "não recomendados" _são de fato livres_ com base em suas licenças -- neste caso, nossa recomendação contra seu uso parte do histórico e/ou modelo de negócios de suas distribuidoras (ex. Microsoft, Google, IBM, Oracle...), ou por incompatibilidade com GNU/Linux, ou por simples falta de funcionalidades. Escrevemos nomes de software proprietário em vermelho para facilitar identificação neste artigo. Pedimos ainda que envie os erros e sugestões adição e/ou modificação para o email csl@disroot.org.
 
