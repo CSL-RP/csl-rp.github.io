@@ -1,7 +1,7 @@
 ---
 layout: page
 hide_footer: true
-toc: true
+menubar_toc: true
 toc_title: Índice
 title:  "Lista de aplicações e recomendações de software livre"
 date:   2021-04-29 16:00:00
