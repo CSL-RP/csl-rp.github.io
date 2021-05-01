@@ -46,7 +46,6 @@ Por fim, o **Atom** é um notório editor/IDE muito popular entre programadores,
 	style="width: 40vw">
 	</center> 
 <br> 
-## IDEs
 
 Em um cenário comercial ou até mesmo no ambiente acadêmico frequentemente nos deparamos com prazos de entrega ou datas limite, seja para o desenvolvimento de soluções ou entregas de relatórios e trabalhos. Com o intuito de economizar tempo e acelerar a produtividade individual ou de grupos que trabalham com programação é que apresentamos a categoria de IDE - do inglês _Integrated Development Environment_.
 
