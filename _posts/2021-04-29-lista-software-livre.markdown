@@ -1,6 +1,5 @@
 ---
 layout: page
-show_sidebar: false
 hide_footer: true
 menubar_toc: true
 toc_title: Índice
