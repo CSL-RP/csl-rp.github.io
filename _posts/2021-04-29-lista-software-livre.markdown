@@ -20,9 +20,9 @@ hero_title: true
 ## Introdução
 Após conhecer o conceito de Software Livre e ter ao menos certa noção de sua imporância, a pergunta natural a se fazer é "O que posso fazer a respeito disso?". O primeiro passo é libertar sua própria computação pessoal utilizando software livre ao invés de suas contrapartidas proprietárias, que muitas vezes são mais usuais. 
 
-Escrevemos este artigo para servir de referência em sua transição para software livre. Navegue pelo índice acima para encontrar software livre para suas aplicações específicas. Estas recomendações são voltadas a usuários de Windows (a propósito, [não perca tempo e experimente logo uma distribuição GNU/Linux](https://csl-rp.github.io/conceitos/2021/04/12/saber-gnu-linux/)) e GNU/Linux iniciantes.
+Escrevemos este artigo para servir de referência em sua transição para software livre. Navegue pelo índice ao lado para encontrar software livre para suas aplicações específicas. Estas recomendações são voltadas a usuários de Windows (a propósito, [não perca tempo e experimente logo uma distribuição GNU/Linux](https://csl-rp.github.io/conceitos/2021/04/12/saber-gnu-linux/)) e GNU/Linux iniciantes.
 
-Peço que tenha em mente que não tivemos a pretensão de sermos imparciais em nossas recomendações. Evidentemente, dêmos preferência aos programas que nós mesmos usamos ou que julgamos serem as melhores alternativas para iniciantes. Além disso, alguns programas "não recomendados" _são de fato livres_ com base em suas licenças -- neste caso, nossa recomendação contra seu uso parte do histórico e/ou modelo de negócios de suas distribuidoras (ex. Microsoft, Google, IBM, Oracle...), ou por incompatibilidade com GNU/Linux, ou por simples falta de funcionalidades. Escrevemos nomes de software proprietário em vermelho para facilitar identificação neste artigo. Pedimos ainda que envie os erros e sugestões adição e/ou modificação para o email csl@disroot.org.
+Peço que tenha em mente que não tivemos a pretensão de sermos imparciais em nossas recomendações. Evidentemente, dêmos preferência aos programas que nós mesmos usamos ou que julgamos serem as melhores alternativas para iniciantes. Além disso, alguns programas "não recomendados" _são de fato livres_ com base em suas licenças -- neste caso, nossa recomendação contra seu uso parte do histórico e/ou modelo de negócios de suas distribuidoras (ex. Microsoft, Google, IBM, Oracle...), ou por incompatibilidade com GNU/Linux, ou por simples falta de funcionalidades. Pedimos ainda que envie os erros e sugestões adição e/ou modificação para o email csl@disroot.org.
 
 ## Edição de texto
 
@@ -112,6 +112,19 @@ Outro navegador livre que se destaca no quesito de privacidade é o **Brave**. E
 
 Por fim, vale destacar que, qualquer que seja o navegador que você utilize em seu computador, é necessário _também utilizá-lo em seu smartphone_. Não adianta nada usar algo que bloqueie rastreadores no PC e continuar usando o _spyware_ da Google ou Apple no celular!
 
+### Mecanismos de busca
+<center><img
+ 	src="https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/pesquisa.png"
+	style="width: 40vw">
+	</center>
+<br>
+
+A hegemonia da Google no mercado de mecanismos de pesquisa é com poucos precendentes em qualquer área da tecnologia -- basta notar como _"to google"_ ou _"googlar"_ se tornaram sinônimos de buscar informação na Web. É uma situação lamentável, tendo em vista que o poder que isso dá à Google sobre o usuário; seus algorítmos se tornam os bastiões de toda informação na Web, na medida que determinam que [tipo de informação o usuário tem acesso](https://en.wikipedia.org/wiki/Filter_bubble), e seus bancos de dados contêm praticamente toda a existência digital dos seus usuários. É realmente difícil superestimar a influência desta única corporação nas vidas dos usuários de computadores hoje em dia.
+
+Mitigar a hegemonia da Google sobre sua vida digital é, portanto, essencial. A primeira medida mais fácil e eficaz que o usuário pode tomar é trocar seu mecanismo de pesquisa por uma alternativa que não armazene suas informações, e para tal recomendamos o **DuckDuckGo** e o **Startpage**. O **DuckDuckGo** agrega resultados do Yahoo, Bing, e de seu próprio indexador Web, e os fornece em seu website, que não armazena informações de uso nem personaliza os resultados para o usuário. Há quem se queixe da qualidade dos resultados do **DuckDuckGo**, então também recomendamos o **Startpage**, que nada mais é que um _proxy_ para a busca Google, fornecendo assim a mesma qualidade de resultados sem comprometimento à privacidade.
+
+Contudo, devemos esclarecer que nem o **DuckDuckGo** nem o **Startpage** são _open source_, muito menos livres. Portanto, a confiança do usuário em seus serviços deve partir do histórico e modelo de negócios das respectivas empresas, que consideramos certamente superiores às alternativas. Usuários que desejem um mecanismo verdadeiramente livre e descentralizado podem conferir o **searX** e o **YaCy**, a custo de certa conveniência.
+
 ## Multimídia
 
 ### Edição de imagens
@@ -130,10 +143,32 @@ Reconhecemos que o **GIMP** em particular possui uma interface e funcionalidades
 
 ## Computação científica
 
-### Visualização e análise de dados
-
+### Visualização de dados
 <center><img
  	src="https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/data-analysis.png"
 	style="width: 40vw">
 	</center> 
 <br> 
+
+Para a análise e visualização de dados as opções proprietárias se tornaram populares, mesmo sendo comumente softwares pagos que levam os seus usuários a se exporem à cracks e sites não confiáveis para a instalação. Quando essas licenças são fornecidas pela instituição de ensino, isto gera um ônus para as finanças da instituição, além de ser uma escolha questionável à medida que existem alternativas livres.
+
+O **alphaplot** e o **gnuplot** são softwares livres que substituem completamente o Origin. As diferenças entre essas alternativas é que o **alphaplot** possui uma interface gráfica intuitiva, disponível para instalação em todos os Sistemas Operacionais por meio do seu repositório no GitHub. O  **gnuplot** oferece opções de visualização e análise de dados, contudo sua utilização se dá por meio de linhas de comando.
+
+Ainda existem diversas alternativas livres para se visualizar a analisar dados. O **SciDavis** e o **Qtiplot** são programas no geral equivalentes ao **Alphaplot**. Também é possível utilizar algumas bibliotecas como **Scipy** ou **Matplolib**, ambas bibliotecas da linguagem Python.
+
+_Contribuído por Lucas Murilo da Costa_
+
+### Processamento de dados
+<center><img
+ 	src="https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/calculo-numerico.png"
+	style="width: 40vw">
+	</center> 
+<br> 
+
+Dentre os programas de processamento de dados ainda existe uma grande influência software proprietário MATLAB. O **GNU Octave** é um software livre de iniciativa do projeto GNU, que tem como objetivo substituir o MATLAB, inclusive fornecendo compatibilidade entre os _scripts_. Além disso existem diversos _packages_ que permitem o **GNU Octave** se comunicar com _Arduínos_, _Raspberry Pi_ e arquivos código escrito em _Python_
+
+Softwares bastante utilizados na estatística são o SAS e SPSS. Ao invés deles podemos utilizar o **R**, outro software do projeto GNU, que é uma linguagem de programação livre destinada à computação estatística e geração de gráficos. O **R** também se destaca por ter uma comunidade extremamente ativa com um _Hub_ de _packages_ bem amplo.
+
+Outra linguagem de programação muito popular para esta aplicação é o **Python**, que, com o auxílio de bibliotecas bem estabelecidas, como o **Pandas**, **Numpy** e o **Scipy**, torna-se uma excelente ferramenta para processamento de grandes volumes de dados. O **Jupyter Notebooks** é uma maneira popular de escrever e compartilhar código em **Python** e **R** entre analistas de dados iniciantes e possui diversas funcionalidades para este propósito, por isto também o recomendamos.
+
+_Contribuído por Lucas Murilo da Costa_
