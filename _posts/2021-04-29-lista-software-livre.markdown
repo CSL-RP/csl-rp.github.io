@@ -47,6 +47,18 @@ Por fim, o **Atom** é um notório editor/IDE muito popular entre programadores,
 	</center> 
 <br> 
 
+Em um cenário comercial ou até mesmo no ambiente acadêmico frequentemente nos deparamos com prazos de entrega ou datas limite, seja para o desenvolvimento de soluções ou entregas de relatórios e trabalhos. Com o intuito de economizar tempo e acelerar a produtividade individual ou de grupos que trabalham com programação é que apresentamos a categoria de IDE - do inglês _Integrated Development Environment_.
+
+As IDE oferecem uma gama de recursos para facilitar a vida de um programador combinando as atividades mais comuns - como editar, compilar e debugar o código - em um único lugar.
+
+Das IDE que recomendamos temos como principal o **Eclipse** que apesar de feita para programação em Java, também suporta C/C++, PHP, Python, Scala e Kotlin através de plugins. O **Code::Blocks** é similar ao Eclipse no sentido de plugins para trabalhar em diversas linguagens fora do padrão C/C++ e Fortran. Temos ainda o **Atom** como descrito na categoria anterior, um framework que facilita a compatibilidade com os diversos aparelhos e SO mas que pode consumir muitos recursos do seu PC.
+
+Em alternativa ao VSCode temos o **VSCodium** que é uma versão sem a presença de binários proprietários e telemetria que existe na versão original do VSCode. A Jetbrains oferece as Edições da Comunidade (do inglês Community Edition) que diferentemente das versões Ultimate, são livres em licença Apache 2.0.
+
+Fica ainda a proposta do **Vim** e do **Emacs** que podem muito bem serem utilizados como IDE quando configurados com plugins.
+
+_Contribuído por Murilo_
+
 ## Documentos
 
 ### Suítes Office
