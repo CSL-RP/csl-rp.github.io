@@ -68,11 +68,11 @@ _Contribuído por Murilo_
 	</center> 
 <br> 
 
-Um dos empecilhos mais comuns na adoção de softwares livres é o fato de que softwares proprietários como Excel, Word, Powerpoint e afins se enraizaram profundamente em empresas e instituições de ensino, a ponto de serem, para muitos usuários, referencia única e imediata dos serviços que oferecem. Entretanto, é fácil mostrar que o Microsoft Office possui contrapartidas livres para todos os seus principais serviços.
+Um dos empecilhos mais comuns na adoção de softwares livres é o fato de que softwares proprietários como Excel, Word, Powerpoint e afins se enraizaram profundamente em empresas e instituições de ensino, a ponto de serem, para muitos usuários, referência única e imediata dos serviços que oferecem. Entretanto, é fácil mostrar que o Microsoft Office possui contrapartidas livres para todos os seus principais serviços.
 
-Os programas das Suítes [**LibreOffice**](www.libreoffice.org/) e [**OnlyOffice**](www.onlyoffice.com/)  oferecem todas as ferramentas usuais para edição de textos, planilhas e slides em interfaces bastante similares (a com crase)s do Microsoft Office. As principais diferenças entre essas alternativas livres são que os programas do pacote **OnlyOffice** possuem interfaces particularmente parecidas com a de versões mais recentes de suas contrapartidas proprietárias, podendo ser vistas como mais esteticamente amigáveís ao usuário, enquanto o **LibreOffice** possui suporte a uma diversidade ampla de linguagens e permite uma maior variedade de integrações com softwares de terceiros, bem como permite adição de diferentes extensões aos seus programas.
+Os programas das Suítes [**LibreOffice**](www.libreoffice.org/) e [**OnlyOffice**](www.onlyoffice.com/)  oferecem todas as ferramentas usuais para edição de textos, planilhas e slides em interfaces bastante similares às do Microsoft Office. As principais diferenças entre essas alternativas livres são que os programas do pacote **OnlyOffice** possuem interfaces particularmente parecidas com a de versões mais recentes de suas contrapartidas proprietárias, podendo ser vistas como mais esteticamente amigáveís ao usuário, enquanto o **LibreOffice** possui suporte a uma diversidade ampla de linguagens e permite uma maior variedade de integrações com softwares de terceiros, bem como permite adição de diferentes extensões aos seus programas. Ao usuário mais avançado de ferramentas de edição de planilhas pode ser particulamente interessante o fato do pacote **LibreOffice** contar, ainda, com a funcionalidade Solver, bastante útil para resolução de problemas de otimização, e a presença da funcionalidade de criação de macros em ambas as opções mencionadas.
 
-Alguns leitores podem se perguntar da razão pelo qual a Suíte Office [**OpenOffice**](www.openoffice.org/) não foi mencionada, a justificativa simples passa pelo fato desse projeto não oferecer suporte a formatos proprietários como .docx, .xlsx e .pptx, não permitir uso associado a uma nuvem, e de que, na pratica, o projeto **LibreOffice** se trata de um projeto sucessor deste.
+Alguns leitores podem se perguntar da razão pelo qual a Suíte [**OpenOffice**](www.openoffice.org/) não foi mencionada, a justificativa simples passa pelo fato desse projeto não oferecer suporte a formatos proprietários como .docx, .xlsx e .pptx, não permitir uso associado a uma nuvem, e de que, na pratica, o projeto **LibreOffice** se trata de um projeto sucessor deste.
 
 _Contribuído por Luis Guilherme Coelho_
 
@@ -131,11 +131,24 @@ Por fim, vale destacar que, qualquer que seja o navegador que você utilize em s
 	</center>
 <br>
 
-A hegemonia da Google no mercado de mecanismos de pesquisa é com poucos precendentes em qualquer área da tecnologia -- basta notar como _"to google"_ ou _"googlar"_ se tornaram sinônimos de buscar informação na Web. É uma situação lamentável, tendo em vista que o poder que isso dá à Google sobre o usuário; seus algorítmos se tornam os bastiões de toda informação na Web, na medida que determinam que [tipo de informação o usuário tem acesso](https://en.wikipedia.org/wiki/Filter_bubble), e seus bancos de dados contêm praticamente toda a existência digital dos seus usuários. É realmente difícil superestimar a influência desta única corporação nas vidas dos usuários de computadores hoje em dia.
+A hegemonia da Google no mercado de mecanismos de pesquisa é com poucos precendentes em qualquer área da tecnologia -- basta notar como _"to google"_ ou _"googlar"_ se tornaram sinônimos de buscar informação na Web. É uma situação lamentável, tendo em vista que o poder que isso dá à Google sobre o usuário; seus algorítmos se tornam os bastiões de toda informação na Web, na medida que determinam que [tipo de informação o usuário tem acesso](https://en.wikipedia.org/wiki/Filter_bubble), e seus bancos de dados contêm praticamente toda a existência digital dos seus usuários. É realmente difícil superestimar a influência desta única corporação na vida das pessoas hoje em dia.
 
 Mitigar a hegemonia da Google sobre sua vida digital é, portanto, essencial. A primeira medida mais fácil e eficaz que o usuário pode tomar é trocar seu mecanismo de pesquisa por uma alternativa que não armazene suas informações, e para tal recomendamos o **DuckDuckGo** e o **Startpage**. O **DuckDuckGo** agrega resultados do Yahoo, Bing, e de seu próprio indexador Web, e os fornece em seu website, que não armazena informações de uso nem personaliza os resultados para o usuário. Há quem se queixe da qualidade dos resultados do **DuckDuckGo**, então também recomendamos o **Startpage**, que nada mais é que um _proxy_ para a busca Google, fornecendo assim a mesma qualidade de resultados sem comprometimento à privacidade.
 
-Contudo, devemos esclarecer que nem o **DuckDuckGo** nem o **Startpage** são _open source_, muito menos livres. Portanto, a confiança do usuário em seus serviços deve partir do histórico e modelo de negócios das respectivas empresas, que consideramos certamente superiores às alternativas. Usuários que desejem um mecanismo verdadeiramente livre e descentralizado podem conferir o **searX** e o **YaCy**, a custo de certa conveniência.
+Contudo, devemos esclarecer que nem o **DuckDuckGo** nem o **Startpage** são _open source_, muito menos livres. Portanto, a confiança do usuário em seus serviços deve partir do histórico e modelo de negócios das respectivas empresas, que consideramos certamente superiores às alternativas mais tradicionais. Usuários que desejam um mecanismo verdadeiramente livre e descentralizado podem conferir o **searX** e o **YaCy**, a custo de certa conveniência.
+
+### Audio/Vídeoconferências
+<center><img
+ 	src="https://csl-rp.github.io/assets/css/img/artigos/lista-software-livre/conferencias.png"
+	style="width: 40vw">
+	</center>
+<br>
+
+Google Meet e Zoom são dois softwares proprietários dos quais absolutamente não conseguimos escapar. Todas as aulas estão sendo ministradas através destes neste período de atividades remotas. Impor unilateralmente a utilização de software proprietário para o acompanhamento das disciplinas é ruim o bastante, ainda pior é o fato de que o modelo de negócio destas plataformas é centrado na coleta e venda massiva de dados dos seus usuários. Zoom em particular também tem um histórico de falhas de segurança.
+
+O **Jitsi** é um excelente software livre de videoconferências que pode ser utilizado como um serviço em [seu website](https://jitsi.org/) ou implementado de maneira independente num servidor próprio. Ele possui interface e _features_ muito semelhantes às do Google Meet, é mais leve, e não viola a privacidade de seus usuários. Além disso, ele inclusive permite integração com o calendário Google, uma _feature_ que vem a calhar para organização de aulas e reuniões corriqueiras. Estas características fazem do **Jitsi** o perfeito substituto ao Google Meet e portanto o recomendamos para todas as suas videoconferências.
+
+Usuários de Zoom também não estão desamparados quanto a alternativas livres. **BigBlueButton** é outro software de videoconferências mais voltado ao ambiente escolar que possui todas as características desejáveis do Zoom sem seus infelizes revezes. Ele também pode ser implementado em servidor próprio, algo que muitas instituições de ensino já vêm fazendo. Por fim, vale também conferir o **Mumble** para chamadas de áudio de baixa latência e o **Jami** como uma alternativa distribuída para comunicação no geral.
 
 ## Multimídia
 
@@ -177,7 +190,7 @@ _Contribuído por Lucas Murilo da Costa_
 	</center> 
 <br> 
 
-Dentre os programas de processamento de dados ainda existe uma grande influência software proprietário MATLAB. O **GNU Octave** é um software livre de iniciativa do projeto GNU, que tem como objetivo substituir o MATLAB, inclusive fornecendo compatibilidade entre os _scripts_. Além disso existem diversos _packages_ que permitem o **GNU Octave** se comunicar com _Arduínos_, _Raspberry Pi_ e arquivos código escrito em _Python_
+Dentre os programas de processamento de dados ainda existe uma grande influência software proprietário MATLAB. O **GNU Octave** é um software livre de iniciativa do projeto GNU, que tem como objetivo substituir o MATLAB, inclusive fornecendo compatibilidade entre os _scripts_. Além disso existem diversos _packages_ que permitem o **GNU Octave** se comunicar com _Arduínos_, _Raspberry Pi_ e arquivos código escrito em _Python_.
 
 Softwares bastante utilizados na estatística são o SAS e SPSS. Ao invés deles podemos utilizar o **R**, outro software do projeto GNU, que é uma linguagem de programação livre destinada à computação estatística e geração de gráficos. O **R** também se destaca por ter uma comunidade extremamente ativa com um _Hub_ de _packages_ bem amplo.
 
