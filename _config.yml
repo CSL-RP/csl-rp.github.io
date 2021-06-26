@@ -5,7 +5,7 @@ email: your-email@domain.com
 description: >
   Site para a Comunidade de Software Livre de Ribeirão Preto
 baseurl: "/"
-url: "csl-rp.github.io"
+url: "csl-dev.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
 hide_share_buttons: true
